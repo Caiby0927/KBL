@@ -1,0 +1,823 @@
+Project,BugId,Effectiveness,AP,RR,Keyword
+SWT,409603,25.0,0.04,0.04,applic applic set set menu menu defin defin stderr instanc dac
+SWT,407555,3.0,0.17351598,0.33333334,stack stack stack overflow overflow overflow error error error widget widget widget widget uml class diagram profil execut analysi stock problem show linux window trace repeat time lang intern intern intern cocoa cocoa objc msg send send send send nativ method method view view view view control control control control updat updat sd sd sd sd ui ui draw draw draw draw buffer hyad hyad content content scroll scroll scroll scroll type type handl event event event event tabl tabl tabl canva canva canva rect rect caus
+SWT,348164,61.0,0.016393442,0.016393442,text box server time small cocoa
+SWT,311302,1.0,0.8333334,1.0,address address relat set set access access access access debug run run live region obj obj obj creat creat creat add add add ref ref line code code object object queri class fix problem make
+SWT,358407,24.0,0.041666668,0.041666668,clarifi dnd drop move
+SWT,311303,3.0,0.33333334,0.33333334,access role role suppos pass msaa
+SWT,335882,1.0,1.0,1.0,bidi sash sash form set set orient direct
+SWT,425999,7.0,0.14285715,0.14285715,gtk gtk gtk gtk run snippet gdk gdk gdk gdk critic critic error window window window window shape combin region fail pointer widget widget retriev realiz
+SWT,423951,421.0,0.002375297,0.002375297,close close git commit dialog
+SWT,335887,1.0,1.0,1.0,api api baselin descript resourc path locat type method method browser web web web kit kit kit creat composit remov gtk line line compat problem version increment occur mf meta number
+SWT,309269,1.0,0.8333334,1.0,widget widget widget widget tabl tabl tabl tabl select event event return item item item item build identifi snippet import import import import fill layout grid data data data data shell shell shell shell column column column column class test test string string string arg final set set set set style style check scroll scroll full fals fals height hint header visibl center center width width left left left text xxxxxx add handl index index index index system println dispos dispos print step
+SWT,372760,2.0,0.2962963,0.5,segment offset flexibl
+SWT,426009,2.0,0.5,0.5,style text word wrap bidi segment insert line break
+SWT,305186,30.0,0.019882102,0.033333335,browser browser shell close esc nan
+SWT,352291,149.0,0.0067114094,0.0067114094,text text layout style gc gc antialia antialia antialia default build draw set set work work window test attach snippet show result
+SWT,301091,43.0,0.023255814,0.023255814,warn warn build temp folder dot src access access line object event local variabl read set set set specif thing flag error
+SWT,380966,1.0,0.22171919,1.0,tree object instanc variabl
+SWT,286763,3.0,0.17138365,0.33333334,tab tab text text password
+SWT,348205,88.0,0.011363637,0.011363637,pointer pointer editor editor build identifi tool linux period error error error work entri entri ui ui ui ui messag messag unhandl event event event event loop stack lang widget widget widget widget menu menu menu menu item item item item accel set set set command command command command updat updat updat updat jface action action manag manag manag manag intern intern intern intern activ activ window access access access bind bind bind bind fire fire context context context context cach sourc sourc sourc sourc handl filter filter filter filter shell shell proc read read run run run run dialog dialog dialog dialog doubl doubl select observ default start deleg core log log type type
+SWT,385070,5.0,0.29593235,0.2,gtk gtk widget widget focu focu deprec
+SWT,372790,1.0,0.75,1.0,win ico file format handl icon
+SWT,325687,41.0,0.018609203,0.024390243,test test test test failur failur failur failur color constructor constructor lorg lorg lorg lorg graphic graphic graphic graphic devic devic devic devic imag imag imag imag data data data data expect expect expect rgb rgb rgb rgb junit junit junit junit framework framework assert assert fail fail fail fail error error error run run run run runner runner runner runner core core core core applic applic applic applic equinox equinox equinox equinox intern intern intern intern app app app app method handl handl handl handl adaptor adaptor adaptor adaptor launcher launcher launcher launcher invok basic equal equal
+SWT,335928,3.0,0.33333334,0.33333334,warn warn warn warn build ppc arm temp temp folder dot src intern bidi util line line callback callback dispos dead code
+SWT,288824,1.0,0.55,1.0,widget widget problem problem repeat event spinner spinner spinner linux linux gtk gtk user agent mozilla en gecko debian build identifi button button digit digit select select select select maximum minim version snip increment increment set set step step click snippet snippet arrow keyboard
+SWT,337979,113.0,0.0088495575,0.0088495575,ui max restor editor area tab
+SWT,387133,28.0,0.035714287,0.035714287,omit deprec method gdk drawabl size gtk gtk gtk make dynam
+SWT,356414,3.0,0.25898078,0.33333334,tree tree item set expand fals blank line virtual
+SWT,333893,1.0,1.0,1.0,shell sheet style focu
+SWT,368710,1.0,1.0,1.0,progress progress progress progress bar bar bar bar creat creat indetermin indetermin paus paus window window window xp build build identifi version execut prog set state work correctli stop control control final shell
+SWT,387144,1.0,1.0,1.0,make gdk pixbuf render drawabl dynam
+SWT,305224,29.0,0.03094001,0.03448276,browser browser browser widget show show scrollbar scrollbar scrollbar select scope scope dialog built open extern
+SWT,294986,108.0,0.009259259,0.009259259,imag imag imag imag load colour save save bmp loader loader user agent mozilla window window nt de build identifi report platform gtk href href href href show show show show cgi cgi cgi cgi id id id id win step gc gc gc bound copi area dispos dispos
+SWT,381006,10.0,0.116666675,0.1,browser browser browser focu focu control control
+SWT,321614,15.0,0.019383632,0.06666667,move event tool shell
+SWT,313424,18.0,0.055555556,0.055555556,control control control control invalid invalid visibl visibl visibl region region expand expand collaps collaps collaps tree tree tree tree node cocoa cocoa cocoa bit bit select set set set pend view view owner draw hit open edit field field text text click triangl fail lang pointer widget widget widget widget custom editor editor type handl event event event event tabl send send send send item item item window window proc proc proc intern objc objc objc msg msg msg msg method method method shell shell applic applic applic applic read run run run ui ui ui ui access realm creat creat platform platform start app app adaptor adaptor accessor accessor accessor impl impl impl invok invok deleg deleg framework basic parent parent dispos dispos case nativ
+SWT,305230,1.0,0.6154891,1.0,browser encod locat locat locat event event align implement cocoa cocoa cocoa link link link type hover don work uri intern ui element element platform win mozilla gtk safari form form string ascii
+SWT,391254,4.0,0.25,0.25,tab tab tab tab folder folder folder folder dispos dispos dispos set set set master master lead travers close click pointer custom custom handl event event tabl tabl send send send widget widget run run defer dispatch ui intern loop field field
+SWT,340054,14.0,0.027876923,0.071428575,problem cocoa attach editor editor close form
+SWT,329814,24.0,0.041666668,0.041666668,compil warn warn warn build temp temp temp folder folder folder dot dot dot src src src intern intern intern imag imag jpeg decod decod line line line access access access access row row row row local local variabl variabl block theme theme combo combo draw draw data border border border border ythick ythick focu focu graphic cursor length ap platform valid
+SWT,299094,1.0,0.5599224,1.0,program program program program launch add prefix file file
+SWT,335962,2.0,0.5,0.5,scroll bar visibl gtk
+SWT,333914,1.0,0.40829632,1.0,applic applic menu menu menu menu local build identifi releas cocoa argument hide item item item search system system step default open en
+SWT,288857,42.0,0.023809524,0.023809524,gdi gdi handl handl handl handl resourc user mozilla window window nt en rv gecko build identifi run attach attach attach program program tool monitor column ad find cut version field error sleak found reduc plug code line line mark mark comment stop compil process tab note increas updat advanc graphic origin applic remov
+SWT,383069,7.0,0.056025777,0.14285715,cocoa url url transfer return file
+SWT,319582,1.0,1.0,1.0,aioob ia hyperlink method
+SWT,391263,44.0,0.022727273,0.022727273,gtk gtk gtk render focu focu
+SWT,288856,1.0,0.67030305,1.0,browser dialog respons return onbeforeunload js event
+SWT,383074,1.0,1.0,1.0,tracker tracker draw draw rectangl rectangl menu bar build identifi screen screen applic hint line line visibl regular area window window window window check sourc code cocoa version found creat level level case comparison carbon step
+SWT,391267,4.0,0.25,0.25,gtk gtk render check check
+SWT,313444,8.0,0.125,0.125,access font font font attribut attribut attribut repeat begin line line voiceov text text text text read start hasn run make make select select custom control bold click click
+SWT,391269,2.0,0.5,0.5,press enter date time time widget
+SWT,307302,2.0,0.23971124,0.5,awt awt applic applic applic applic menu menu menu menu build identifi user interfac decid screen screen bar bar configur set set set appl system system properti properti mrj add hook item enabl ad control case touch creat specif ap emb
+SWT,350312,33.0,0.015151516,0.030303031,embed embed break break
+SWT,284777,4.0,0.2361111,0.25,user gtk set check ad input method item context menu
+SWT,368757,20.0,0.029166669,0.05,esc acceler work window window window build attach close applic press
+SWT,356476,1.0,1.0,1.0,control enter digit progress bar spinner
+SWT,379005,1.0,1.0,1.0,pointer clipboard clipboard clipboard clipboard build identifi version client comput type type type type mark line transfer transfer transfer transfer data data data data check check check widget widget dnd dnd dnd return return return pasteboard pasteboard pasteboard pasteboard count count count count result result result result regist string string trace browser edit edit past enabl dynam dynam notifi notifi select select select select updat content content intern activ present focu focu focu tabl send send send send control control window window shell proc proc msg msg super applic applic applic applic cocoa read dispatch
+SWT,362625,31.0,0.032258064,0.032258064,arrow don work rtl rtl text text text text document open editor utf write content content line line line line end end end press press press press button locat charact charact bottom st detail platform zn au
+SWT,389250,3.0,0.33333334,0.33333334,close close reopen view object simpl simpl open part test case prepar navig instanc instanc counter profil item tool bar
+SWT,387204,36.0,0.022222223,0.027777778,tree tabl tooltip cut line window
+SWT,280708,21.0,0.04761905,0.04761905,set set set set font font font font incorrect text text text code gc gc gc incorrectli result seri charact import import import import graphic graphic widget widget widget widget event shell shell shell shell class string string final final final final path add add win ttf verdana handl antialia draw draw dispos dispos dispos dispos open read arg
+SWT,305294,26.0,0.03774929,0.03846154,control control control control print print print gc gc side effect effect window window aero build identifi composit stack flip perform bottom screen code code run run switch mode step creat creat copi class imag test start end librari librari properti path applic click click click button button blank blank redrawn show note top
+SWT,329872,4.0,0.25,0.25,dialog dialog infinit flicker loop primari primari modal modal style build build identifi version id focu focu switch back back parent shell expos expos toggl applic send carbon cocoa problem
+SWT,307345,3.0,0.1923077,0.33333334,browser browser browser browser mozilla mozilla mozilla mozilla ctrl move focu menu menu bar
+SWT,395411,2.0,0.5,0.5,tab tab tab folder folder render render creat creat time default set
+SWT,333972,9.0,0.11805555,0.11111111,instal instal instal browser browser browser browser function function function function content content load load frame frame frame frame build identifi page made code behavior behavior safari access access access access window window window window mozilla case extern thing secur step start snippet html attempt success
+SWT,348309,29.0,0.021251464,0.03448276,scroll scroll scroll bar bar bar pad scrollbar mix background add
+SWT,422042,1.0,1.0,1.0,rid junit gen gener hasn touch test complet remov step
+SWT,350362,26.0,0.03846154,0.03846154,word word word ctrl text text file work work case case build identifi navig press press caret caret freez point move move forward creat singl line line end end expect remain posit
+SWT,301212,34.0,0.029411765,0.029411765,rtf transfer support encod copi clipboard clipboard text text style ansi uc deff fonttbl fnil lucida grand colortbl red red green green blue blue fi
+SWT,303263,5.0,0.2,0.2,expos cf cf run run run run loop loop loop mode stop adob adob adopt cocoa specif method defin defin carbon
+SWT,379042,2.0,0.5,0.5,drag drag detect left left click ctrl run open stack view press press hold control button tab contextu contextu menu menu dismiss esc effect green rectangl
+SWT,374948,6.0,0.16666667,0.16666667,browser mozilla invalid profil directori
+SWT,311462,3.0,0.33333334,0.33333334,timer timer run file file dialog open import import import layout layout grid grid widget class string arg final shell shell shell shell set fals exec exec runnabl system println dispos dispos
+SWT,311466,1.0,1.0,1.0,access access access access object object object factori factori creat gtk widget atk atk freed dispos dispos
+SWT,331948,3.0,0.16850829,0.33333334,set background work date date time time calendar calendar calendar header content base color color bg handl
+SWT,387245,3.0,0.33333334,0.33333334,widget widget resiz webkit event fix nan
+SWT,342192,22.0,0.045454547,0.045454547,print print print print dialog dialog dialog dialog xp printer printer printer instal instal build identifi applic applic applic applic line execut execut execut execut free space nativ nativ compil code code code vv win win win dll intern intern intern intern move move memori memori lorg lorg lorg lorg devmodew open data servic servic imag imag imag imag graphic graphic info handler handler handler handler core core core core command command command command event event event object object object object ui ui ui check check menu menu menu item item item item access access run run run run window platform app app app app adaptor adaptor launcher string invok invok invok
+SWT,323763,81.0,0.008346752,0.012345679,start detect
+SWT,305332,1.0,1.0,1.0,taskitem reset imag imag imag string arg shell shell shell shell set set set user felip desktop workspac cocoa snippet snippet src icn icn task task item item item item system bar text text open dispos dispos read sleep result app app show show default icon icon icon fix patch index widget widget widget file cvsroot retriev mar boolean draw draw draw draw badg label intermidi applic applic return
+SWT,336054,7.0,0.14285715,0.14285715,combo combo combo text text text text enter enter win win control click dropdown arrow type abc press field field clear expect drop drop close time open entri list search dialog pattern
+SWT,305335,1.0,0.64285713,1.0,taskitem doesnt shell shell shell shell open string arg task task item item item item system bar set text text dispos dispos read sleep expect show applic icon result note
+SWT,284858,7.0,0.14027779,0.14285715,widget tabl tabl tabl tabl column column column pack pack result fit header header header
+SWT,399547,12.0,0.055555556,0.083333336,gtk widget style style report set set border border border border test build observ lt control control control draw checkbox select snippet show show problem line visual confirm tabl support string arg shell shell shell system println
+SWT,377019,4.0,0.25,0.25,specif specif file file file file filter filter filter filter work build identifi set set dialog dialog dialog dialog select select select select test test test txt txt window code import import widget class arg shell shell shell open open open open extens dispos dispos dispatch sleep
+SWT,329916,5.0,0.2,0.2,tabl tabl item item draw draw draw select calcul proper start coord focu rectangl end comput
+SWT,319677,138.0,0.0055536903,0.007246377,read tooltip tag nan
+SWT,391364,16.0,0.0625,0.0625,style text add bidi segment support multipl char offset
+SWT,288964,6.0,0.16666667,0.16666667,browser browser regist regist function function function function effect open open window window window window user agent mozilla nt en rv gecko build identifi instanc set navig navig load page step link nativ context menu add custom
+SWT,399560,4.0,0.061304603,0.25,gtk cool cool cool cool bar bar bar item item item handl handl style style includ flat build observ lt control control tab note drag case begin
+SWT,395464,520.0,0.0019230769,0.0019230769,freez freez freez hover hover variabl variabl view view longer longer tooltip result minut problem window step step class class debug applic creat string string string string buf buf append println set mark line hit
+SWT,422090,2.0,0.25840336,0.5,ad ad ad remov remov remov remov measur measur measur measur event event event event show tree tree tree tree horizont horizont scrollbar scrollbar type result send send item item item item widget widget code code code code hook check return return fals index dc select select dispos dispos dispos dispos behavior creat creat creat creat problem ui navig navig common common common common custom label instanc instanc method add draw draw draw draw owner line line line line decor set set enabl initi initi initi style cell base init init string string composit applic sampl arg final final final shell shell fill text size open
+SWT,399562,34.0,0.029411765,0.029411765,gtk progress progress bar send event event event test build observ lt run control control tab note move resiz click
+SWT,399563,44.0,0.022727273,0.022727273,splash screen huge aix aix ppc linux platform show initi size start build
+SWT,307403,62.0,0.014088612,0.016129032,access access access access creat creat creat creat filter filter filter filter list list list list linux linux build identifi pane element element selector longer step attach window window fail fail thread line line line line label add control control control control set widget widget scrollabl scrollabl init init init init composit composit composit composit boolean boolean select dialog dialog dialog dialog area content super run show open open test shell action
+SWT,338127,40.0,0.025,0.025,error error error error configur detail packag packag packag packag lc vk build id appl boot loader constant ws ws cocoa cocoa framework argument argument keyr keyr keyr keyr command problem occur jface jface jface jface lang program program program intern intern intern intern system imag imag imag imag editor resourc descriptor comput updat updat updat updat cell column abstract abstract abstract item item item item tree safe safe safe safe run run run run util util util util structur structur runnabl custom show expand expand expand send send send send super super super super msg msg applic applic access databind default start basic file version viewer viewer viewer
+SWT,420052,3.0,0.33333334,0.33333334,gtk gtk widget modifi style function deprec mark prevent useless warn nativ part
+SWT,383189,12.0,0.083333336,0.083333336,warn error combo run linux
+SWT,291030,1.0,1.0,1.0,rtl scrollabl bottom left corner
+SWT,364761,1.0,1.0,1.0,add gtk gtk cell cell cell layout
+SWT,331993,6.0,0.16666667,0.16666667,set cursor locat point move event cocoa
+SWT,356571,1.0,0.52916664,1.0,graphic graphic imag imag imag imag data data data data diagram diagram diagram diagram draw draw export jpeg png png png step figur loader loader loader loader save temp error error error error handl handl class long lpv lpv bit bit alloc alloc alloc heap heap heap memori memori memori size problem check length case implement
+SWT,364764,1.0,0.95,1.0,gtk file select
+SWT,321754,22.0,0.045454547,0.045454547,tool tool window window show minim minim button button button button step run code note enabl shell shell shell shell trim set set set packag snippet import import import import event graphic layout widget widget class string arg fals fals push text text click add select select select select resiz label label left point locat origin dispos dispos read sleep
+SWT,364766,6.0,0.114583336,0.16666667,gtk orient orient orient set set set set
+SWT,364767,2.0,0.5,0.5,remov gtk tree tree view widget coord
+SWT,364768,6.0,0.16666667,0.16666667,remov gtk widget sensit
+SWT,364769,1.0,0.8409091,1.0,remov remov gtk gtk timeout add
+SWT,297186,13.0,0.07692308,0.07692308,default default default default button button button button shell shell shell shell unset click user agent mozilla window window window nt en build build identifi id gtk gtk gtk focu focu event event event event set set set specif hit widget handl handl return return fals decor decor travers function function function linux wm wm wm killfocu note make creat
+SWT,332003,1.0,1.0,1.0,dropdown dropdown calendar calendar datetim widget hide build build id step run control date date time tab set style drop open switch applic applic applic visibl visibl top hidden relat focu focu click button travers
+SWT,385253,2.0,0.32692307,0.5,send send event event press combo combo control control build identifi step run test test attach case find trigger carbon
+SWT,391398,6.0,0.16025642,0.16666667,gtk gtk visual visual depth depth gdk access struct member fail enabl
+SWT,352487,5.0,0.16666667,0.2,mnemon mnemon mnemon label label label label field work work
+SWT,299241,16.0,0.0625,0.0625,menu menu menu menu open open open open close close close view view view view embed embed word word control control control control site site build identifi version creat creat creat creat object object object object order applic applic applic applic set set frame frame problem dispos code attach step step extend part part method document run run work
+SWT,391404,5.0,0.2,0.2,remov gdk gdk imag sizeof method break compil gtk gtk
+SWT,391408,3.0,0.33333334,0.33333334,remov remov gdk gdk visual sizeof sizeof compil gtk
+SWT,377074,8.0,0.125,0.125,cocoa tab tab item item bound bound return return posit posit build identifi gm sampl sampl click button print folder result result number
+SWT,387315,1.0,1.0,1.0,gtk entri im im context context filter keypress omit direct
+SWT,334067,1.0,1.0,1.0,browser avoid invok url url insid map callback build side web site part condit set set mode perform flag refer
+SWT,391413,3.0,0.18452382,0.33333334,remov gdk gdk gdk gc sizeof sizeof unus break compil gtk gtk
+SWT,313593,40.0,0.025,0.025,access access access implement retriev visibl visibl cocoa support return return thing tabl list menubar menu comment api ad
+SWT,313594,5.0,0.2,0.2,word word word word select select select select user type ctrl arrow editor editor editor editor screen screen reader note behavior behavior run run run run access access access access api api offset offset offset offset surpris acc acc time focu bit text text text text doubl doubl doubl doubl click click click click custom control show step thread line line line line style style style style set set set boolean rang rang sourc viewer viewer strategi strategi strategi default connector previou previou movement event event event event tabl tabl send send send send widget widget widget widget notifi string string method method method method object object object object callback dispatch dispatch dispatch messag messag msg msg nativ nativ handler ui ui runnabl runnabl creat creat platform applic applic applic start start start context app app app launcher starter starter accessor accessor impl impl impl invok invok invok invok deleg framework url basic repli thing matter blind keystrok move forward simpl fix caus
+SWT,344324,38.0,0.02631579,0.02631579,style style text text text text longer access access access cocoa focu control control control editor blank
+SWT,342279,192.0,0.0052083335,0.0052083335,warn warn build build build src src src platform platform platform doc doc isv isv isv common widget touch refer found event
+SWT,387338,20.0,0.04395765,0.05,cocoa cocoa style style style singl singl click click click click bring window window window window top top top effect effect object system behavior behavior linux linux screen focu focu control control control control carbon move thing partial return focus sel shell super
+SWT,342282,8.0,0.125,0.125,flag disabl tree tree tree tree twisti anim hide window vista default expando node element focu perform ui thread thread thing finish execut attach introduc system properti control
+SWT,295185,22.0,0.028429754,0.045454547,browser browser browser refresh lead user agent mozilla window window window window nt en appl web kit khtml gecko chrome safari build identifi custom custom custom step recreat repeat load reload hit nativ nativ nativ nativ thread id prioriti polici unknown xestacktrac intern intern intern win method widget widget widget widget control control shell shell shell shell releas decor decor decor decor jface jface jface close close close close applic applic hard access access access run run run run show show show core type handl event tabl tabl tabl send compil code creat insid button button doubl click set point
+SWT,340248,36.0,0.063723356,0.027777778,check check widget widget miss shell shell toolbar toolbar method state restrict appli error error dispos thread invalid access
+SWT,377113,1.0,1.0,1.0,tab tab folder view theme outer border
+SWT,305433,1.0,1.0,1.0,gtk unexpect exit event shell face tool tip click button tooltip time hidden navig scroll press learn link hide move move control enter esc
+SWT,391459,16.0,0.0625,0.0625,press toggl button button space space space version build id gtk gtk bit work
+SWT,305444,7.0,0.14285715,0.14285715,view tab truncat rtl mode start dir argument part show maxim packag explor result
+SWT,327974,2.0,0.5,0.5,path path path path data data return return point point point point integ integ float build identifi effect list list list problem draw scale scale graphic make appli transform base factor type xy continu smooth curv jag devic coordin theori access
+SWT,299302,3.0,0.33333334,0.33333334,uppercas text text text text combo combo verifi verifi build identifi user type charact charact charact charact forc upper case case field ad event event event event handl code overrid simpl fix method modifi add start start end end state state doit doit break
+SWT,373036,1.0,1.0,1.0,cocoa cocoa cocoa cell cell cell cell class build identifi widget init init method method subclass subclass access access text text text text field field field field replac set set ui control control creat creat manag nativ code code code run run time id alloc return restor cl
+SWT,311602,2.0,0.5,0.5,super method access object atk hypertext link index text set caret offset
+SWT,332083,49.0,0.020408163,0.020408163,invalid hover event cocoa
+SWT,291128,110.0,0.009090909,0.009090909,widget close level modal window instal run configur
+SWT,327995,21.0,0.04761905,0.04761905,awt awt shell shell canva canva applic invalid memori access build identifi window window window web web browser browser open open creat frame add xx brows html editor popup step attach test case
+SWT,332096,14.0,0.071428575,0.071428575,browser browser print print print focu focu rich text editor editor show result result canva canva canva widget widget imag imag user user type visibl interrupt input affect platform steal
+SWT,295232,16.0,0.07590579,0.0625,add add select select select select button button menu menu item item item item tool tool radio radio method special behavior widget widget style case control control user number fix document
+SWT,309570,1.0,1.0,1.0,cocoa cocoa cocoa tabl tabl tabl tabl header header header header snippet show menu menu menu click click click bring bring calcul occur row client area method note tree version info
+SWT,377155,2.0,0.5,0.5,combo combo dropdown dropdown list top screen bound
+SWT,284993,21.0,0.04761905,0.04761905,gc gc gc set set set alpha alpha alpha alpha draw imag imag
+SWT,344392,13.0,0.07692308,0.07692308,bidi imag disabl tool bar orient orient orient set set set set
+SWT,383305,57.0,0.01754386,0.01754386,font font font size incorrect run build identifi appli work enabl high resolut outlin comment calcul tab open open count count file attach step start bar
+SWT,340297,8.0,0.125,0.125,tree tree tree tree select select select select lost collaps collaps collaps unrel item item item item window build identifi multipl parent parent parent node step multi order click box expect result result descend deselect code snippet import layout widget widget widget widget shell class test string version size open dispos dispos sleep set expand
+SWT,311631,12.0,0.048708923,0.083333336,access read titl tab tab tab tab group launch control click select announc compar system keyboard standard overrid
+SWT,311632,6.0,0.16666667,0.16666667,access access access access object object object object default text text text text creat free label relat ad ad code start run field field sampl atk charact charact offset offset implement implement widget return super string arg devic debug set layout layout grid fals singl border pack dispos dispos read dispatch sleep
+SWT,344401,18.0,0.055555556,0.055555556,awt enabl enabl enabl enabl disabl disabl embed shell shell build identifi set set set code window window window case account control control control hierarchi capabl work step
+SWT,420182,6.0,0.16666667,0.16666667,gtk gtk gtk default linux
+SWT,317782,2.0,0.4388889,0.5,text text text transfer transfer gener incorrect utf utf pasteboard copi copi copi string string applic applic applic applic build identifi base past nativ nativ carbon carbon data flavor type set ut plain back step run run test test click click button edit menu item
+SWT,280921,2.0,0.5,0.5,tree tree tree tree select select select select set set set ad run snippet window window item item item item cocoa creat string fill final multi multi text text dispos dispos
+SWT,303454,14.0,0.06721873,0.071428575,tabl tabl tabl tabl check check check check behav render column column column column label carbon header header foo foo foo checkbox checkbox gtk gtk win string arg shell shell shell shell set set set set layout layout grid fals singl border full select select hide scroll data data fill fill line visibl visibl text text text text bar lead baz cell cell cell cell count dispos dispos dispos
+SWT,383328,37.0,0.027027028,0.027027028,multipl hover event move
+SWT,368993,85.0,0.016743913,0.011764706,label size size hint layout layout layout
+SWT,321898,467.0,0.0021413276,0.0021413276,button button ui test test test test failur failur
+SWT,313711,26.0,0.05702965,0.03846154,api dispos dispos dispos dispos method method widget widget widget widget resourc resourc resourc ap error error invok state throw fail appli fix replac
+SWT,389491,34.0,0.029411765,0.029411765,screen black move tab
+SWT,328053,116.0,0.00862069,0.00862069,browser click click link link link event event build build identifi input trigger action action stop work js test user step creat invok form href href javascript javascript alert text type
+SWT,282998,121.0,0.008264462,0.008264462,dispos imag print print
+SWT,303487,248.0,0.004032258,0.004032258,program program program program build identifi error error error log jface jface jface jface stacktrac set step gmt problem problem problem problem occur invok code lang pointer find ui ui ui ui intern intern intern intern registri registri registri editor editor editor editor system extern imag imag imag imag descriptor descriptor descriptor base base resourc resourc resourc resourc comput label label label label viewer viewer viewer viewer deleg deleg deleg style style style style cell cell cell cell decor decor decor decor updat updat updat updat abstract abstract abstract tree tree tree item item item item safe safe safe safe runnabl runnabl runnabl runnabl run mapper mapper thread progress access databind applic start framework basic file widget
+SWT,305536,2.0,0.5,0.5,tab tab folder folder singl mode mode show show text text longer
+SWT,305537,2.0,0.5,0.5,tab tab tab tab folder gradient background background unselect unselect draw incorrectli api set result box box drawn exit fill align
+SWT,311687,117.0,0.008547009,0.008547009,link link wrap wrap vertic fill fill widget cocoa cocoa cocoa open control select size horizont make window win gtk check editor color top don nan
+SWT,383369,54.0,0.016749823,0.018518519,cocoa combo draw spew long error messag input multi line
+SWT,291209,2.0,0.5,0.5,widget imag imag imag tabl column column top left justifi vertic center sort sort user agent mozilla macintosh en appl web kit gecko version safari build identifi gm cocoa set end align posit middl cell custom
+SWT,303499,185.0,0.0054054055,0.0054054055,editor map singl font
+SWT,344460,50.0,0.02,0.02,bidi coolbar updat set set orient orient orient identifi sle style style drop drop arrow arrow item item item item mirror mirror mirror mirror creat rtl appli level test control tab group group group check line cool bar stretch middl left left left click click result note
+SWT,366989,1.0,0.625,1.0,browser browser web web kit gtk clear clear session session cooki underli render result pointer incorrectli
+SWT,313740,2.0,0.17193402,0.5,unabl select window face warn warn warn dialog dialog dialog dialog file brows brows open open open open build page click click button browser browser browser jface messag end lock user forc applic applic style top system level font
+SWT,287119,2.0,0.5,0.5,style style style style text text text text widget widget content shift shift shift left left scroll scroll scroll bar line line line line wrap wrap wrap build id step code box time back back test inform custom class snippet string arg set set dispos dispos read sleep
+SWT,280976,9.0,0.11111111,0.11111111,item item set set foreground foreground color color color color method tag receiv receiv receiv argument argument argument argument param illeg ul ul error invalid invalid dispos dispos dispos widget thread thread creat
+SWT,305553,1.0,1.0,1.0,left border tab tab folder
+SWT,317843,62.0,0.016129032,0.016129032,color color info background tooltip bg
+SWT,381333,39.0,0.025641026,0.025641026,exit event receiv receiv shell shell style top build identifi step step run case cocoa hover hover button pop don move move tab app carbon
+SWT,346517,1.0,0.28777102,1.0,add access keyboard tab tab tab tab folder folder
+SWT,319893,11.0,0.09090909,0.09090909,shell trim minim window keystrok
+SWT,323995,1.0,1.0,1.0,access access style style style text text text select select select incorrect caret caret caret move move event event rc receiv run process send final acc
+SWT,291229,1.0,0.7555556,1.0,event event state state state mask mask mask mask button button field keyboard modifi code constant ctrl add refer clear
+SWT,383392,1.0,1.0,1.0,style style style style text text text text throw index index index bound bound bound bound set chines chines chines charact charact input input input input build identifi widget widget widget widget pin method default show list list list confirm panel float click part screen lost focu code clean applic stack unhandl event loop illeg illeg argument error error error graphic layout layout layout layout custom render render render render calcul calcul client area reset reset cach handl content content content content send snippet view creat control composit parent parent final st st st add overrid gain auto gener stub upper section im im kei type
+SWT,315812,4.0,0.25,0.25,access access text text text text base tool tool tool tool item item item item read read tooltip tooltip build build id id back button button launch control move move cursor toolbar toolbar toolbar tip
+SWT,344487,1.0,0.3172856,1.0,browser browser web web kit xul xul runner runner incompat safari window run control webkit checkbox checkbox demo mozilla prompter error messag version version press app load
+SWT,360872,1.0,0.72222227,1.0,remov gtk combo friend
+SWT,299436,4.0,0.25,0.25,dnd drag sourc refer bogu oper field
+SWT,287149,2.0,0.5,0.5,widget file file file file dialog dialog dialog dialog open open open directori directori directori linux linux gtk gtk gtk gtk build id step write platform code default activ shell set run select select check check window bit line don replac empti
+SWT,317872,25.0,0.016065573,0.04,cocoa cocoa icon icon problem
+SWT,281011,25.0,0.04,0.04,control monitor monitor method method tag check widget implement miss nan
+SWT,291253,5.0,0.2,0.2,widget widget set set minimum minimum minimum minimum size size size size top top shell shell shell shell make unabl grow grow grow post snippet snippet snippet snippet line min min comment creat borderless trim linux resiz resiz resiz resiz window work work hit attach problem class final button button button button text text text add add add select select select select overrid event rectangl rectangl rect rect rect rect bound bound bound bound height height height height width width shrink shrink shrink push close close close close string arg regular dispos dispos dispos read dispatch sleep
+SWT,414134,12.0,0.074174695,0.083333336,dnd cocoa set control cursor cursor arrow drag oper show incorrect icon
+SWT,352694,32.0,0.02784609,0.03125,gc gc captur screen screen correctli correctli build identifi carbon step run sampl area store content imag cocoa problem
+SWT,321974,188.0,0.005319149,0.005319149,fals present control control control ui ui menu menu extens extens point point build identifi found implement ad custom window vista mismatch posit understand kind adam step import start
+SWT,354745,66.0,0.015151516,0.015151516,keyboard navig browser widget page
+SWT,299451,6.0,0.16666667,0.16666667,dnd tracker rectangl screen screen drag part run dual setup left px resiz applic secondari
+SWT,313787,2.0,0.5,0.5,intern fix style text word word word word previou
+SWT,387518,10.0,0.1,0.1,extrem wide combo box
+SWT,311746,304.0,0.004189266,0.0032894737,focu problem problem switch app mail list don run build previou version workspac open editor content applic press press alt alt tab tab tab back navig text arrow ctrl ctrl work
+SWT,293315,4.0,0.25,0.25,intern browser add certif linux user mozilla window window window nt en rv gecko net identifi prompt accept left blank page find open
+SWT,344516,1.0,1.0,1.0,gc gc transform transform transform render text layout layout strikeout strikeout select select build identifi window window xp vista style style error error access pid tid version hot client mode share problem empti bold ital underlin step creat strike set draw rang
+SWT,289219,1.0,0.35638067,1.0,program program find txt return extra extra text text edit edit order app handl extens plist file check fail launch servic code directli correctli
+SWT,295368,8.0,0.10145053,0.125,widget widget widget widget dispos dispos run build select select select select workspac error error error error check check custom tab tab tab tab folder folder folder folder set set set foreground foreground ui ui ui ui intern intern intern intern pane pane present present present defaultpresent defaultpresent default default default default updat updat color shell shell shell shell activ activ util part type handl event event event event tabl tabl send send send send filter filter proc proc gtk gtk context iter iter nativ method applic advisor advisor open window thread thread runnabl runnabl lock async async messag messag access core core databind creat platform platform start equinox adaptor adaptor launcher starter starter starter accessor accessor impl impl deleg deleg framework basic
+SWT,391627,119.0,0.008221175,0.008403362,scroll scroll scroll scroll bar bar bar select event fire hold top area vertic vertic cocoa check
+SWT,317902,83.0,0.012048192,0.012048192,segment fault widget loos focu
+SWT,393681,1.0,0.53571427,1.0,gtk nan
+SWT,342488,5.0,0.2,0.2,run run webstart webstart app app app code fail pm pm pm pm appl appl appl web web web web start start start start thread awt kit lang lang reflect reflect invoc target nativ nativ nativ nativ method method method method impl invok deleg deleg javaw launcher pointer widget init init init graphic devic devic controlexampl control control
+SWT,289244,2.0,0.5,0.5,graphic gdi draw text
+SWT,307681,6.0,0.16666667,0.16666667,style style style style text text text text incorrect incorrect length length length length object object object object event event event event build set set set set rang rang rang rang glyph metric metric receiv comput comput render render layout layout layout start start start start end end implement show offset draw line obtain parent multi bg ascent descent observ
+SWT,332259,2.0,0.5833334,0.5,browser browser browser post post request applic applic www form form urlencod content content content content type type type data api set set url method header field field field replac mozilla webkit gtk don platform implement check length
+SWT,283108,43.0,0.025712414,0.023255814,browser widget react compar javascript
+SWT,403941,12.0,0.108333334,0.083333336,gtk test failur fedora set set set foreground background font appli visual style context result properti retriev getter
+SWT,291307,16.0,0.0625,0.0625,menu imag imag png support support alpha transpar window vista
+SWT,313846,22.0,0.04356061,0.045454547,dialog dialog popup popup popup popup parent parent parent parent shell shell shell shell cover cover build step button button open open open open click drag drag make top bring
+SWT,362999,2.0,0.26190475,0.5,graphic scale printer gtk
+SWT,315894,86.0,0.011627907,0.011627907,compos combin combin combin eras eras char char text text editor enter enter charact charact charact composit work exist field dialog open test gener type type type type result result delet expect space esc exit mode standard
+SWT,309753,15.0,0.05714286,0.06666667,tree tree tree tree send send send send measur measur item item item code code run run run cocoa cocoa cocoa cocoa move platform problem implement lang pointer widget widget widget widget cell cell cell size window proc intern intern intern intern objc msg stret method catalog catalog catalog render render render render handl tabl tabl calcul calcul scroll scroll redraw jface jface jface jface abstract abstract preserv control part helper activ activ list list thread runnabl set set set
+SWT,332282,5.0,0.2,0.2,styledtext caret caret posit posit incorrect switch orient build identifi resiz size code press ctrl ltr rtl lost bigger line end
+SWT,391675,1.0,0.5016155,1.0,label label document class subclass subclass subclass includ import protect shorten text method state overrid accept
+SWT,393723,15.0,0.06666667,0.06666667,gtk gtk gtk foreground editor area unselect unselect tab run export open note color match hard read white
+SWT,336379,60.0,0.016666668,0.016666668,snippet text
+SWT,393726,19.0,0.05263158,0.05263158,gtk gtk gtk view view tab run export note taller fedora
+SWT,369151,1.0,1.0,1.0,make gtk gtk tooltip data dynam dynam
+SWT,393728,1.0,1.0,1.0,gtk gtk gtk editor background fedora run export open white work
+SWT,393729,3.0,0.4166667,0.33333334,gtk gtk gtk column header tree tabl run export open problem view note button
+SWT,369152,1.0,0.42592594,1.0,make gtk set local dynam
+SWT,393727,6.0,0.13333334,0.16666667,gtk gtk gtk search search box box clip clip run export focu note edg widget
+SWT,311809,2.0,0.35,0.5,access access access access relat relat relat don show aren work cocoa cocoa add add method element serv titl titl ui attribut list
+SWT,373253,1.0,0.159099,1.0,browser function work xul runner
+SWT,324102,174.0,0.0057471264,0.0057471264,backspac delet tab stop work applic applic applic minim form form form browser control focu focu textbox maxim type letter longer set free inform
+SWT,291326,2.0,0.27941176,0.5,awt awt awt awt freez make sync respons event event user agent window window en gecko build cocoa synchron synchron dispatch thread thread thread thread result applic wait wait case daemon prio tid nid runnabl runnabl lang state run nativ method method toolkit model model handl intern intern intern objc objc send send send send widget read
+SWT,305672,84.0,0.011904762,0.011904762,freez freez tree owner draw render border dot long long line line line build identifi regular regular match match match match comput comput search search search search view hard region expand found complet js file file file chanc major user limit lock lock window vista virtual minut step creat singl open type type text check checkbox filter click
+SWT,311817,1.0,1.0,1.0,string string relat relat class class local local final type control control descript embed emb flow flow label label member node parent window popup subwindow
+SWT,297480,1.0,0.64285713,1.0,widget cocoa line line visibl visibl visibl tabl tabl tree tree user agent mozilla en rv gecko build identifi set set set background background snippet snippet run show
+SWT,311819,1.0,1.0,1.0,style style style style text text text attribut return return font font color color screen reader don assum figur default access test line st st st st render count foreground background start end content length
+SWT,297477,2.0,0.5,0.5,shell set set set default default default default button button button button save temporarili window decor wm setfocu paramet fals effect previou reinstal focu
+SWT,344591,9.0,0.11111111,0.11111111,potenti printer printer
+SWT,367120,1.0,0.6961905,1.0,gtk tree select select row invoc
+SWT,338448,1.0,0.70243686,1.0,control control set touch touch event event event enabl enabl enabl boolean api api getter tradit start state widget parent check case
+SWT,344597,1.0,1.0,1.0,error return return return return javascript javascript evalu evalu browser browser browser browser build identifi script control control explor result result result attach simpli execut object alert window window instal includ includ version interfac work ds dispatch pointer id item item item element dispid variant set vt vt vt empti empti handl fix fix fix web site convert convert method case case case string string simpl line check side find make back expect
+SWT,291354,2.0,0.5,0.5,widget window window small small indetermin indetermin progress progress progress bar bar bar statu end test start control monitor tab check style size vista nativ note visibl set oper oper finish
+SWT,330268,18.0,0.055555556,0.055555556,post post log session button test run code event event event event type process
+SWT,315932,20.0,0.05,0.05,print print print select select select select file file file build identifi open line press ctrl text printer printer dialog size step
+SWT,280569,3.0,0.22076024,0.33333334,cocoa move shell space space rich rich hover hover open open open editor activ show dark background drag window text expect result result back find
+SWT,350751,4.0,0.14772728,0.25,item item item imag scale trai
+SWT,385570,31.0,0.032258064,0.032258064,select select select select charact charact charact unicod unicod surrog surrog pair pair end end line line line line build build build identifi version version id window window window japanes edit bit full amd local input text editor doubl click keyboard arrow button step start expand set default encod utf import file file open code expect
+SWT,297507,10.0,0.064941704,0.1,tabl tree show show vertic grid line line set visibl
+SWT,297511,4.0,0.12601747,0.25,widget truncat tabl tabl tree tree item long column column bound app case end string custom cell
+SWT,305704,5.0,0.13854167,0.2,font dialog return color
+SWT,377385,1.0,0.36451185,1.0,shell shell set set full full screen screen work window
+SWT,391722,13.0,0.07692308,0.07692308,avoid set tooltip text text tool item add code run toolitem show part perform work
+SWT,285223,6.0,0.1936508,0.16666667,browser authent navig directli site
+SWT,361004,7.0,0.15476191,0.14285715,remov gtk list relat function
+SWT,315948,13.0,0.07692308,0.07692308,doesnt doesnt work win win win win ce ce ce miss check identifi commit intern make make process process process dpi dpi window window vista vista version version set set replac step start app
+SWT,287278,2.0,0.5,0.5,widget widget widget switch compar compar compar compar mode editor editor step open file text drop button sourc label click pointer run run run run popup read dispatch ui ui ui ui intern intern intern intern event loop access core core databind observ realm realm creat platform platform applic applic start start start equinox app app app app handl handl adaptor adaptor adaptor adaptor starter starter starter nativ nativ nativ nativ method method method impl impl impl impl deleg deleg framework basic
+SWT,326200,6.0,0.11363637,0.16666667,disabl disabl disabl button button statu statu bar bar enabl enabl enabl enabl handl fail build identifi command command ad extens point ui ui menu menu uri toolbar toolbar id applic state state user item sync notif check check oper tool tool fals base
+SWT,387641,1.0,1.0,1.0,cairo gdk deprec method sash widget widget draw band implement exist
+SWT,295482,64.0,0.015625,0.015625,widget file file search search search histori code assist assist scroll scroll scroll cursor cursor cursor page user agent mozilla linux de suse build identifi activ regular checkbox content press ctrl space end po fill
+SWT,324155,1.0,0.7,1.0,modal dialog dialog open build build identifi identifi carbon carbon carbon bit id id process user download app app app content version version version code code code code type type type nativ parent date time interv interv sec uuid ae access access access sigbu kern protect failur thread thread thread thread dispatch queue appl applic applic applic applic specif specif inform inform error client mix mode stack stack compil intern intern intern intern run run run run widget ljava ljava local local ui lorg action action action event event event event win item item item item handl handl select tabl send send send send notifi window handler observ adaptor adaptor runnabl method method method method invok gener gener cf cf space virtual object object launch
+SWT,330299,1.0,0.51428574,1.0,tree tree tree tree default default select select select select event event event event item item item item field field set set set set build identifi run snippet press enter object object object object step import import import import layout widget widget widget widget shell class test string final border text text text add system system println println size dispos dispos
+SWT,295483,10.0,0.1,0.1,ui ui ui freez user mozilla macintosh en rv gecko build build identifi creat creat applic applic applic applic window window window window updat thread thread thread thread loop event event event event occur keyboard keyboard activ test test test test code code code work work modifi version foreground idl proc method problem case case face face couldn vanilla shell shell fail step run leav move bring back import import import import jface dispos dispos layout layout layout grid grid data widget widget widget widget composit control author class num num string parent parent set content content content fals fill fill vertic vertic vertic vertic length return id stack daemon min start read
+SWT,391742,1.0,0.17490833,1.0,user dialog dialog dialog dialog pop file file file
+SWT,350783,286.0,0.002717244,0.0034965035,imag handl handl win build identifi search search search search client queri time unhandl event loop error packag instal switch target manag manag thing step open type find box press enter
+SWT,393792,3.0,0.33333334,0.33333334,gtk gtk gtk shell size run snippet export resiz window window grow
+SWT,320064,1.0,0.5151515,1.0,style style style text text text combo combo preced label label label access access order sibl creat default
+SWT,344642,1.0,0.6320821,1.0,enabl enabl disabl disabl click checkbox build id cocoa bit run open file add switch debug view note tabl row deselect deselect select select interestingli alt option context menu action mark
+SWT,320066,102.0,0.009803922,0.009803922,drop drop tool tool item item item item access access access face bar manag add graphic tooltip tooltip text work button style run tab arrow menu role
+SWT,369225,59.0,0.016949153,0.016949153,cleanup pre gtk gtk leftov leftov
+SWT,369226,3.0,0.33333334,0.33333334,pre gtk leftov tabl
+SWT,369227,17.0,0.05882353,0.05882353,pre pre gtk gtk leftov list
+SWT,369228,1.0,0.596588,1.0,pre gtk leftov tree
+SWT,311881,6.0,0.16666667,0.16666667,link travers code nan
+SWT,287307,6.0,0.10964912,0.16666667,widget gtk gtk control set order
+SWT,313937,17.0,0.05882353,0.05882353,composit motif println
+SWT,408146,1.0,1.0,1.0,web kit handl event function wheel
+SWT,283217,24.0,0.041666668,0.041666668,print imag alpha transpar pixel unspecifi
+SWT,334420,329.0,0.0030395137,0.0030395137,element element element tabl long
+SWT,348761,85.0,0.013235294,0.011764706,wrap button doc
+SWT,322137,8.0,0.125,0.125,top top top top shell shell shell shell applic applic snippet window window focu import import import layout widget class string arg set set set set text text text grid fals bound bound trim ontop button button button button push pack dialog dialog dialog dialog modal work work fail dispos dispos sleep
+SWT,295513,24.0,0.041666668,0.041666668,aiob text layout
+SWT,352860,62.0,0.016129032,0.016129032,pointer close system menu item id build launch test case press stacktrac occur
+SWT,328290,8.0,0.03125,0.125,intercept fixfocu
+SWT,336485,7.0,0.14285715,0.14285715,parent parent parent shell shell shell shell wrongli focus expos expos activ activ activ primari primari modal modal cocoa open control select keyboard work expect separ window window modeless nativ dialog pass focu
+SWT,332389,17.0,0.03670186,0.05882353,invalid memori memori access access shell shell shell shell tool tool tool tool bar bar bar bar build build identifi import import import import layout widget class string arg final final default trim item item set set set set text text toolbar label label label label fill fill minimum size size dispos dispos error number launch cocoa step
+SWT,322151,116.0,0.00862069,0.00862069,menu menu cocoa cocoa step build bit start click item edit sourc log error
+SWT,393833,3.0,0.33333334,0.33333334,vertic scroll bar show set visibl fals window
+SWT,344686,4.0,0.1341634,0.25,gtk enabl disabl click click checkbox
+SWT,352880,1.0,1.0,1.0,shell toolbar toolbar separ separ button button button show build identifi launch attach sampl line relaunch
+SWT,293490,6.0,0.16666667,0.16666667,control wide cocoa shorten tab item text carbon
+SWT,301684,165.0,0.005066963,0.006060606,fatal creat cursor
+SWT,342648,6.0,0.16666667,0.16666667,linux rtl rtl mode tree tree tree item item point incorrect result result unzip attach plug import exist launch dir left show view view view view click expand node expect
+SWT,289401,1.0,1.0,1.0,widget black screen screen screen screen window window window aero mode mode mode tracker tracker tracker tracker open open open vista app problem kind editor object object object object creat composit composit composit rectangl rectangl move end locat code code return return stippl monitor monitor
+SWT,340603,1.0,1.0,1.0,select select select select cocoa cocoa draw wrap wrap text text text text layout layout identifi line line line drawn box box width background attach attach screen show result code step run test window system
+SWT,393856,1.0,1.0,1.0,pango pango pango pango layout layout layout layout pixel pixel pixel pixel size size width width width height height height ceil floor shift end round test
+SWT,377472,86.0,0.011627907,0.011627907,charact charact sbc build identifi window japanes japanes aix step creat creat class string string variabl copi text program expect result result result result png png equival previou version
+SWT,305795,42.0,0.023809524,0.023809524,unexpect cocoa
+SWT,297605,2.0,0.5,0.5,browser browser invalid invalid certif certif dialog prompt sec error cert
+SWT,320135,188.0,0.005691944,0.005319149,show show whitespac charact charact charact option make editor slow slow slow build build enabl enabl test platform respons cocoa bit version step
+SWT,293513,3.0,0.33333334,0.33333334,text text text text caret caret caret caret posit posit posit return return return set set set set code edit select select select rang rang version build id
+SWT,324236,1.0,1.0,1.0,browser mozilla mozilla link link link js action open open window window work build identifi page target blank xul xul runner bit mode step style set text
+SWT,389773,2.0,0.3409091,0.5,perform tab render draw time track work folder
+SWT,309907,70.0,0.014285714,0.014285714,text tool tip black bubbl linux
+SWT,324254,19.0,0.040014066,0.05263158,cocoa cocoa cocoa cocoa ui ui ui ui enhanc enhanc enhanc handler needlessli disabl disabl servic menu menu lightli modifi bit annoy keyboard run code remov make
+SWT,291486,11.0,0.043113764,0.09090909,browser browser browser widget fail ctrl hover
+SWT,297633,4.0,0.122347064,0.25,widget widget widget widget background background background background group group group group incorrect set set set set parent parent parent parent mode inherit inherit inherit cocoa cocoa cocoa window carbon earli build snippet snippet import import import import graphic color color color color layout layout layout layout bg string shell shell trim composit composit composit composit fill make make make dispos titl titl text text text line platform version label label left check result remov
+SWT,357026,18.0,0.055555556,0.055555556,virtual tabl throw avg
+SWT,414371,168.0,0.005952381,0.005952381,doubl click stack stack element trace focu editor version build id stop correctli activ cursor posit break line line expect switch action hit
+SWT,311973,4.0,0.25,0.25,style style text text text text access access extend extend problem boundari word return type count run linux tool
+SWT,311974,1.0,1.0,1.0,web kit gtk minimum version nan
+SWT,326311,19.0,0.05263158,0.05263158,error intern intern intern intern cocoa cocoa cocoa object object object object instanc variabl tree tree tree tree expand expand expand item stream sync sync set set set select anymor event event process process process thread thread thread thread user app app identifi version version code code code type type nativ nativ parent report report report report invalid applic applic applic applic specif bit widget window window window window proc proc proc stub stub send send send send run run run run view
+SWT,299686,27.0,0.037037037,0.037037037,control control control control print result unlock focu problem problem attach test case enabl write visual render seri widget widget widget widget canva canva owner nativ nativ button check box dynam creat captur imag start error fail id hot bit
+SWT,387755,4.0,0.10284985,0.25,gc copi copi area area screen screen imag imag imag imag store region region region coordin coordin obtain cursor cursor locat locat logic logic logic set set resolut resolut max max return fit pass expect treat content origin offset
+SWT,322222,1.0,0.8333334,1.0,widget segfault pango layout close dialog
+SWT,283313,1.0,0.625,1.0,cocoa delet tabl tabl tabl tabl viewer viewer element element element refresh major build id structur content model model model owner draw draw draw draw label label label cell cell eras measur measur row row row popul custom vertic scroll scroll bar select select select select command random number method widget widget widget widget dispos dispos item class line protect check check error error font font send view view view math math space space space intercel height height gc gc rect sel show app
+SWT,289467,7.0,0.14285715,0.14285715,index bound region region bit cocoa add
+SWT,359101,6.0,0.16666667,0.16666667,style style style style text text text line line underlin underlin rise shift build rang rang charact time attribut drawn strikeout step st st parent composit start length singl
+SWT,289470,3.0,0.35962301,0.33333334,browser browser browser browser set set set set text text text content snippet work document receiv blank navig async async exec exec string arg final final shell shell shell shell layout creat page page add locat locat locat event event event doit fals runnabl run system println dispos dispos read return html link link
+SWT,393919,1.0,1.0,1.0,gtk gtk gtk gtk text text align align align align insid label label label label invalid pass left left center run run run code test shell creat handl handl line line box horizont fals vertic vertic widget
+SWT,404163,26.0,0.03846154,0.03846154,gtk gtk set set background background background imag imag imag work fedora snippet fail run import import widget class test string arg shell shell shell shell system system icon icon error composit composit composit composit bound warn size open dispos dispos read dispatch sleep
+SWT,303818,34.0,0.029411765,0.029411765,spinner spinner spinner spinner hidden composit composit snippet class string arg shell shell shell set set set set layout grid border border select select select dispos read result remain empti focu focu pass tab folder
+SWT,328396,7.0,0.14285715,0.14285715,deliv drag drag start detect attach
+SWT,322253,66.0,0.015151516,0.015151516,widget context context menu menu menu set set visibl fals ui test test test test editor forev cocoa close result run hour work platform version file code open snippet
+SWT,314064,1.0,1.0,1.0,doc doc doc api program program launch launch string string modifi file work dir dir incorrectli return error invalid argument valid window photon platform remain document
+SWT,314066,1.0,0.14186208,1.0,add miss flag code return param
+SWT,283346,20.0,0.038333334,0.05,hide doesn work build id step menu menu click dock bring back foreground foreground window bar applic command tab item inform
+SWT,391892,1.0,1.0,1.0,incorrect window window window window collect collect collect behavior behavior behavior tool tool tool tool style style style style shell shell shell shell full full full full screen screen screen screen mode mode widget creat handl method primari space space switch show auxiliari parent parent move activ version sheet set
+SWT,361177,2.0,0.5,0.5,tab folder access
+SWT,373467,9.0,0.11111111,0.11111111,default default search search search search menu menu menu menu work work correctli nativ creat base applic shell shell shell shell bar bar bar bar code code code sampl png set set return
+SWT,398046,2.0,0.21604937,0.5,tool tip long time show tooltip tooltip messag
+SWT,314079,13.0,0.07692308,0.07692308,constant orient nan
+SWT,361189,1.0,1.0,1.0,style style text text text text vertic vertic vertic scroll scroll scroll scroll bar bar bar bar end end build identifi variabl show set fals line line step run code snippet attach add
+SWT,408298,1.0,1.0,1.0,clear text text text text char char char char dialog widget password password password password field secur practic store string api fill found memori creat copi input collect gc implement window window window check length length length length handl handl return tchar tchar code page fals system arraycopi
+SWT,307947,64.0,0.02321668,0.015625,access access access access object object object set set move widget control control control content run window window focu close button
+SWT,336624,2.0,0.17114092,0.5,simultan left left button button identifi attach move event event canva window success queri state state mask mask flag click time statemask step execut file press hit case
+SWT,322293,15.0,0.06666667,0.06666667,select select select hyperlink hyperlink hyperlink hyperlink multipl multipl multipl multipl present present present present list list list stack trace cocoa cocoa lang pointer widget widget widget widget shell shell shell shell set set set window visibl visibl visibl visibl jface jface jface jface text text text text abstract abstract abstract abstract inform inform inform inform control control control control manag manag manag hide hide hover link link link link open access access type type handl event event event event tabl tabl tabl tabl send send send send notifi run run defer applic applic applic applic match mask intern msg msg msg msg super super super method method method proc nativ read dispatch loop databind observ creat creat platform platform start start app app app app adaptor adaptor starter starter starter accessor accessor impl impl deleg deleg framework basic
+SWT,398070,7.0,0.08492064,0.14285715,browser function convert correctli boolean xul
+SWT,414455,27.0,0.037037037,0.037037037,viewer viewer refresh method jface tabl tabl show select select select item linux
+SWT,340729,2.0,0.25163934,0.5,access access focu focu miss mozilla mozilla browser browser window platform build identifi user navig widget widget tab tab shift style style button header caret text input step launch applic
+SWT,324345,5.0,0.10890189,0.2,awt awt move event shell build identifi browser browser applic control control control cursor cursor cursor behavior mess thing focu hover hover text text field field runner caret caret dom click step open defin
+SWT,377600,29.0,0.03448276,0.03448276,cocoa shell shell shell class doesn implement implement focu focu focu focu style style style identifi creat click unexpect break code set visibl
+SWT,295681,4.0,0.25,0.25,spinner spinner widget widget widget enter enter number number number japanes input set user agent mozilla window window nt rv gecko clr build identifi width step open select select gener workspac left menu start
+SWT,357127,62.0,0.016129032,0.016129032,sourc sourc hover show code code build identifi shift set tab yield confirm win step method
+SWT,287495,11.0,0.09090909,0.09090909,graphic index bound scale png
+SWT,281352,1.0,0.323489,1.0,add icon hint support gtk search text control
+SWT,357138,1.0,1.0,1.0,mozilla mozilla file file nativ nativ post method support filenam charact browser implement path utf
+SWT,355090,2.0,0.5,0.5,miss version check check sel sel flash flash scroller run control messag print scroll view unrecogn selector instanc bar bar updat
+SWT,389910,1.0,0.8236259,1.0,substitut substitut gdk gdk gdk gdk color color color color rgba rgba gtk gtk gtk wide class number getter getter getter function return return return expect method method method polici flag control foreground font font font font handl handl handl handl widget widget style style style state implement context bg black dark light mid text text white icon
+SWT,307991,1.0,0.5588235,1.0,browser browser zone elev block standard ui
+SWT,334624,25.0,0.02990099,0.04,post keyboard
+SWT,312097,105.0,0.00952381,0.00952381,work editor
+SWT,301863,23.0,0.06732731,0.04347826,print print print print dialog dialog window window code code set set printer printer printer printer data data data data ensur instanc variabl miss miss platform platform platform line cocoa lang lang pointer pointer open jface jface text text text text viewer viewer ui ui ui ui texteditor abstract abstract decor decor editor editor run run action action action action event event event event command command command handler handler handler handler intern intern intern intern wrapper execut legaci core core check check parameter parameter servic press process filter filter filter filter sequenc bind keyboard access handl widget widget widget widget tabl send send send send canva canva control control selector msg msg msg msg composit composit super super shell shell applic applic applic applic read dispatch loop databind observ creat creat start equinox adaptor adaptor starter starter starter accessor accessor impl impl deleg deleg framework basic method nativ id
+SWT,281383,1.0,1.0,1.0,browser browser cooki set instanc
+SWT,330540,10.0,0.1,0.1,shell shell tool tool style style focu focu cocoa control dialog command shift
+SWT,363309,78.0,0.013763198,0.012820513,event event post post honor shift state displai displai
+SWT,344878,1.0,1.0,1.0,print print dlg web ui deleg frame
+SWT,312112,96.0,0.010416667,0.010416667,spec access send event event data
+SWT,367414,19.0,0.029824562,0.05263158,tabl select throw aioob
+SWT,332599,4.0,0.13333334,0.25,behavior drag releas canva cocoa
+SWT,332600,8.0,0.125,0.125,combo combo combo combo box cursor posit platform run sampl final shell shell shell drop drop left set set set set text text text result window begin expect behavior end hard read string attach
+SWT,353084,4.0,0.12869003,0.25,layout problem shell toolbar build identifi launch attach sampl control ad multi line text fill
+SWT,375619,3.0,0.33333334,0.33333334,toolbar toolbar toolbar toolbar separ separ separ tab order creat tool window travers travers travers direct ctrl
+SWT,310083,45.0,0.022222223,0.022222223,access access text text event event event tag api field field custom bidi segment segment char typo
+SWT,361292,1.0,1.0,1.0,style style text text text text horizont horizont scroll scroll scroll scroll bar bar bar end end end line line build identifi show fals step code snippet attach add
+SWT,355149,2.0,0.26612902,0.5,window window window window render restor restor minim minim minim minim state state maxim maxim maxim build previous version behavior applic applic applic applic affect affect degre switch app find occur size
+SWT,316238,2.0,0.24720894,0.5,widget menu menu menu lost open open open open window window window window build minim minim minim maxim maxim step select click parent move focu thing firstli
+SWT,326479,4.0,0.25,0.25,app menu menu menu menu bar remov exist
+SWT,289612,42.0,0.023809524,0.023809524,awt label label label label snippet bit cocoa run platform
+SWT,324435,116.0,0.0074700043,0.00862069,press button nan
+SWT,301911,3.0,0.20833334,0.33333334,dock icon detect dirti save workspac exit exit bit cocoa select bypass check check simpli repeat
+SWT,308057,5.0,0.2,0.2,style text report access inform delet data backspac
+SWT,295774,9.0,0.11111111,0.11111111,control print print print run user user agent mozilla window window window nt en rv gecko build identifi servic invok command suddenli save work trigger file menu accident press step stop
+SWT,297823,14.0,0.071428575,0.071428575,text text text text transfer transfer translat platform line line delimit string introduc break ap set set style ui past window convert plain repres
+SWT,398176,22.0,0.045454547,0.045454547,gtk gtk gtk termin button view enabl run export remain instanc stop search search
+SWT,361313,55.0,0.018181818,0.018181818,warn warn build src src src platform platform doc isv isv isv isv custom widget widget common style style text text unknown tag
+SWT,283503,4.0,0.25,0.25,intern win script logic width
+SWT,392048,859.0,0.0011641444,0.0011641444,text test test ui
+SWT,306039,3.0,0.33333334,0.33333334,widget window window list list item item standard standard argument pass pass instanc instanc instanc build implement impos launcher launcher id applic applic applic confus case made fix local version patch data properti creat creat task bar
+SWT,359289,19.0,0.02896831,0.05263158,browser add web kit support linux ppc nan
+SWT,304001,1.0,0.34163177,1.0,api set set highlight highlight imag imag imag statu statu item item identifi regular regular support applic unabl show select
+SWT,334723,5.0,0.048188027,0.2,warn warn warn warn build build build build src src src src platform platform platform platform doc doc doc doc isv isv isv isv common common common tag tag refer refer refer found found widget widget widget touch state state state event gestur gestur adapt move
+SWT,312195,3.0,0.1884058,0.33333334,untitl text text file focu focu editor cocoa creat previous focus work button menu submenu
+SWT,314243,21.0,0.04761905,0.04761905,widget tooltip tool tool tool item item item item inact inact shell shell updat updat move move move cocoa group step control bar set api hover hover hover toolbar push horizont leav area time window find replac text editor activ wait focu
+SWT,322438,1.0,1.0,1.0,browser webkit event event button button build add render receiv receiv field step creat
+SWT,424840,49.0,0.020408163,0.020408163,browser test failur http download download drop html gtk gtk testresult
+SWT,338825,1.0,0.40641913,1.0,app menu menu menu bar bar
+SWT,387980,5.0,0.2,0.2,neg zoom factor magnif gestur
+SWT,291724,1.0,1.0,1.0,link link link link widget widget problem mnemon mnemon mnemon mnemon gtk
+SWT,347022,1.0,1.0,1.0,browser honor version set navig
+SWT,379791,68.0,0.014705882,0.014705882,graphic graphic graphic dispos dispos placehold placehold impl impl impl version build id id id id close element element element ui ui ui ui view view view sourc sourc entri messag occur model applic advanc dc bbd tag uri widget render render render render top fals visibl access access access access stack stack stack error error error imag imag custom custom custom custom tab tab tab tab folder folder folder folder comput comput size size size set item item item item updat updat hide intern intern intern intern part part part part safe safe safe safe remov remov remov remov gui gui run run run run core send send send proc proc proc objc objc objc msg msg msg super super super method method method cocoa cocoa realm realm realm realm adaptor adaptor starter starter accessor accessor accessor deleg
+SWT,379792,1.0,1.0,1.0,tree tree tree tree widget widget widget column column column column refer refer refer refer tabl tabl version linux linux platform platform solari window handl handl handl releas releas dispos dispos creat model model model model collect index length length length long long count grow time gtk gtk store type error error copi view set unref step recreat check heap
+SWT,324497,64.0,0.015625,0.015625,widget widget widget widget pointer pointer link link link link text text text view view view view click click index index build identifi window window window window proc proc proc proc intern intern intern intern cocoa cocoa objc objc msg msg msg msg send send send send super super super nativ method method method method control control event event shell shell applic applic applic applic read run run run access databind observ creat creat platform platform start start app handl impl impl impl deleg deleg framework basic step activ
+SWT,383890,-1.0,0.0,0.0,sigsegv ld linux nan
+SWT,385939,1.0,0.7555556,1.0,omit deprec gtk gtk tooltip tooltip tip window
+SWT,291726,1.0,1.0,1.0,gtk gtk gtk gtk critic messag event link link widget control click checkbox stderr gtkentri line line entri entri entri text utf strlen max repeat time
+SWT,365462,11.0,0.09090909,0.09090909,link link link link set set set set enabl enabl enabl boolean boolean updat updat updat color color color redraw redraw master text text text client import import import import event event event event select select select select layout layout layout grid grid widget widget widget widget button button button button shell class snippet disabl disabl string arg final final add system println open dispos dispos read dispatch sleep
+SWT,390041,3.0,0.33333334,0.33333334,cairo gdk draw pixbuf
+SWT,334746,317.0,0.0060507953,0.0031545742,present present perf perform perform creat creat test test test test window ui linux introduc januari build initi
+SWT,332700,2.0,0.5,0.5,browser creat safe safe safe work cross cross process process flag flag set set success fadf fadf fadf fixeds havevartyp havevartyp vt vt ui variant function step run snippet
+SWT,365473,22.0,0.045454547,0.045454547,post post event event event confus button button button button cocoa snippet click press window gtk text open context menu
+SWT,332709,1.0,0.5769231,1.0,jni jni jni add add window window window window callback callback function function function function shell shell shell shell build build carbon carbon version id ad implement nativ code handl api api hm instal content work step
+SWT,291749,1.0,0.55263156,1.0,widget widget link link select keyboard focu ring
+SWT,412584,1.0,1.0,1.0,resourc text text text text control creat edit edit edit field field field set set fals dispos dispos result sourc code widget widget creation im context regist function return valid handl ad deregist
+SWT,375721,2.0,0.5,0.5,context context menu menu posit style style text text text caret caret caret open overlap case ui action creator comput locat fix result line height offset
+SWT,295856,4.0,0.25,0.25,progress progress progress progress bar bar bar select select select select state state state state correctli user agent window nt de version build identifi updat work work work set set set error error error step run attach snippet snippet replac initi final class test string arg throw max shell layout maximum thread sleep dispos dispos
+SWT,287665,4.0,0.15725806,0.25,widget sheet sheet respons file directori directori dialog dialog applic messag messag messag messag box box box creat creat creat creat style bit close close subsequ click click cancel button doubl user select shell open open press obtain
+SWT,297911,1.0,1.0,1.0,browser string string view view certif invalid cert cert promptdialog step find properti file button set text compat messag
+SWT,408505,38.0,0.02631579,0.02631579,gtk control tab cool cool bar visibl
+SWT,369599,65.0,0.015384615,0.015384615,window flash open tooltip
+SWT,285641,6.0,0.16666667,0.16666667,widget export export formatt formatt page add file file file extens cleanup set set open custom click enter filenam end
+SWT,291788,48.0,0.020833334,0.020833334,widget focu focu focu lost cocoa simpl class class packag field field field string arg set caret caret refer press press tab time put back editor area problem occur local variabl work
+SWT,279501,46.0,0.02173913,0.02173913,snippet snippet snippet dispos text text text text layout layout layout layout instanc
+SWT,328654,3.0,0.33333334,0.33333334,html transfer carbon
+SWT,287694,13.0,0.07692308,0.07692308,widget spinner set increment throw arithmet divid
+SWT,289752,19.0,0.05263158,0.05263158,bidi bidi ctrl ctrl shift shift shift shift left doesn doesn switch style style text text text text orient orient orient user agent mozilla compat window window nt net build identifi platform platform system system system editor editor press press widget implement hot combin arab arab hebrew hebrew custom note context import keyboard code back function run
+SWT,285656,67.0,0.014925373,0.014925373,widget framework incorrectli assum digit digit refer tabl window build id step creat applic applic acceler launch keyboard keyboard layout layout work map inform
+SWT,381915,2.0,0.5,0.5,jdk test test top index fail
+SWT,322525,1.0,0.55,1.0,comput size date date time time style hebrew hebrew hebrew calendar calendar local window type run control select tab check note widget
+SWT,304093,4.0,0.25,0.25,carbon carbon carbon drag drag drag drag sourc set set data data fire file start start build build perform class result applic code creat big
+SWT,320484,3.0,0.39712512,0.33333334,font font font font data data data data hash hash hash hash code code code time time time bold bold ital ital fix return return height style style
+SWT,302053,58.0,0.01724138,0.01724138,label label dispos dispos dispos build identifi sourc code control step note
+SWT,338937,27.0,0.037037037,0.037037037,warn warn warn warn build build build build src src src src platform platform platform platform doc doc doc doc isv isv isv isv common common tag tag tag tag find find find find set set id id id id widget widget widget widget menu menu menu menu item item item item
+SWT,312315,13.0,0.049331106,0.07692308,tabl item item item item tree tree bound bound bound explicit document fix confus part return return text clear case imag set likewis find measur eras snippet show event
+SWT,328706,39.0,0.025641026,0.025641026,tooltip link show href
+SWT,345093,18.0,0.0399729,0.055555556,shell set visibl extrem slow slow slow linux linux linux
+SWT,330757,2.0,0.5,0.5,command copi copi browser web kit beep cocoa widget work made text
+SWT,388105,1.0,1.0,1.0,style style text set set set select select select caret caret caret end end block block block block mode mode
+SWT,355341,27.0,0.033670034,0.037037037,tab folder nativ select item text invert
+SWT,326672,1.0,1.0,1.0,graphic text text style style hash hash hash hash code code code code build line underlin underlin strikeout set step invok rang field
+SWT,334865,8.0,0.125,0.125,save action action toolbar enabl organ import cocoa candid editor tab correctli menu command work
+SWT,310290,1.0,1.0,1.0,browser set set mozilla proxi properti
+SWT,338965,467.0,0.0021413276,0.0021413276,deadlock ui thread
+SWT,375830,1.0,1.0,1.0,webkit webkit window window fail safari safari safari version appl applic support directori program program file file file launch browser style add path
+SWT,295959,59.0,0.016949153,0.016949153,widget embed nativ view receiv enter event
+SWT,300056,14.0,0.071428575,0.071428575,screw layout nan
+SWT,353305,5.0,0.2,0.2,browser web kit tooltip tooltip tooltip tooltip close close esc esc identifi open show descript press work step enter class arbitrari test final string string string cursor cursor screen underlin warn
+SWT,312346,1.0,1.0,1.0,style style style style text text text text end line line line line implement attribut method return return font charact charact fix add st st st foreground background object
+SWT,396316,21.0,0.037161533,0.04761905,gtk tabl height file page
+SWT,332830,103.0,0.009708738,0.009708738,menu menu menu item item text text build identifi keyboard switch switch window window window classic theme widget line work step widow creat icon checkbox style longer render
+SWT,416799,4.0,0.25,0.25,gc draw imag shift correctli scale gtk
+SWT,408608,1.0,1.0,1.0,browser web kit gtk spew error messag keystrok
+SWT,338975,64.0,0.015625,0.015625,cocoa window server server consum memori start run version version version bit bit increas real real point point system list excess creat creat context menu respons graphic
+SWT,412706,285.0,0.010723509,0.003508772,widget widget dispos browser section
+SWT,373794,26.0,0.0031596194,0.03846154,malform comment
+SWT,328740,63.0,0.015873017,0.015873017,tooltip visibl cocoa
+SWT,392229,2.0,0.5,0.5,browser js evalu uc script princip xul runner
+SWT,338981,2.0,0.5,0.5,text text text text verifi verifi event event insert insert insert insert field content build cocoa receiv suppos part delet delet step run attach code singl type charact convert top paragraph substitut
+SWT,300070,10.0,0.1,0.1,warn warn temp temp folder folder dot dot src src widget widget line line string string string id id id id integ integ hex hex handl handl local variabl variabl read ppc arm
+SWT,283688,41.0,0.016934458,0.024390243,drag drop feedback select tabl tabl tabl owner draw label window build id viewer render cell regist oper oper linux
+SWT,293931,8.0,0.125,0.125,printer printer data data data start start start page page page page end end rang rang scope maximum platform
+SWT,293932,193.0,0.0145879295,0.005181347,event string method write hex mask
+SWT,312365,2.0,0.5,0.5,carbon carbon fail fail drop drop object object object object control control control control identifi window step composit composit setup target target creat result problem find find data data widget
+SWT,308270,28.0,0.035714287,0.035714287,program nativ code import import build creat workspac result hs log attach step attempt
+SWT,314416,122.0,0.008196721,0.008196721,checkbox disabl disabl disabl disabl tabl tabl tabl render incorrectli window window window build identifi rc platform function check state activ part linux gtk cocoa base mail templat app app creat attach attach attach screen step download import run xp vista mode make compar insid
+SWT,398386,29.0,0.03448276,0.03448276,tooltip tooltip found test build toolbar item interestingli toolitem exist singl show
+SWT,312371,392.0,0.0025510204,0.0025510204,widget widget carbon exit exit event event event gener gener build identifi drag drag drag attempt left left case test cocoa step run sourc code shell click insid blue blue area area show
+SWT,343093,48.0,0.020833334,0.020833334,input japanes japanes charact default local jp utf enter enter enter hiragana hiragana press press press space kanji start previous type click file convert
+SWT,324662,24.0,0.041666668,0.041666668,hand hand hand hand cursor cursor cursor link link
+SWT,410683,51.0,0.019607844,0.019607844,chines word lost type style text control input sourc
+SWT,336957,1.0,0.354337,1.0,carbon carbon carbon receiv receiv receiv event event event item item item proc proc build occur occur time applic applic attach appl stack stack widget widget widget routin stub intern intern read dispatch releas graphic devic dispos reflect reflect nativ nativ method method accessor accessor invok invok invok ap couldn object
+SWT,404543,1.0,1.0,1.0,win intern intern web browser browser browser browser fail detect detect version oper compat compat compat mode mode page enabl code initi read microsoft internet internet explor explor instal svc properti set forc dorg
+SWT,314432,40.0,0.025,0.025,hover hover hover click click close close rc work link fast make shell focu back editor step past packag explor workspac class class class parent parent extend note reopen
+SWT,320581,4.0,0.25,0.25,widget gtk control control control control move move build identifi work jdk function step write snippet
+SWT,332872,60.0,0.021666668,0.016666668,resolv xor xor mode relat carbon cocoa show feedback feedback feedback feedback drag marque select guid function gc set deprec expect find inform bugzilla polici
+SWT,289868,99.0,0.015050504,0.01010101,widget properti properti properti properti view view view label select
+SWT,285773,17.0,0.05882353,0.05882353,combo combo string miss detail text text text return
+SWT,322638,17.0,0.05882353,0.05882353,imag imag imag imag load load load load loader stream stream fail anim gif attach find open open program implement nativ string show adjust path
+SWT,291918,1.0,0.5344828,1.0,menu menu item item clear clear titl titl titl attribut read combo set set text text empti string
+SWT,332887,885.0,0.0011299435,0.0011299435,snippet snippet incorrect posit posit book section locat locat client client client client area area area area control case figur show show group box platform platform window window left gtk gtk code widget parent practic layout composit composit set set size bound bound bound rewritten rectangl
+SWT,328794,562.0,0.0017793594,0.0017793594,remov remov unus variabl nan
+SWT,369757,20.0,0.05,0.05,gl canva fix pointer parent
+SWT,379998,388.0,0.0025773195,0.0025773195,list show run configur dialog
+SWT,406623,13.0,0.045405984,0.07692308,charact empti style style text text duplic custom content
+SWT,281695,54.0,0.018518519,0.018518519,incorrect load cursor custom png imag window
+SWT,423012,7.0,0.14285715,0.14285715,ctrl scroll work opposit test version found press improp move move window window system gnome
+SWT,377961,2.0,0.5,0.5,combo combo toolbar toolbar box editor set set pixel wide separ toolitem tool tool tool item item width width reset parent bar relayout bound return snippet control control select
+SWT,308329,134.0,0.0074626864,0.0074626864,tur bound bound bound occur past past past charact charact charact charact run run build build identifi descript suse suse en en return return messag messag work sle problem level compon cdt platform affect local turkish expect result result step step creat enter input field select select execut empti test window min gw linux click click click file cpp cpp editor open type includ includ string string namespac std comment make check class toolbar configur applic applic prompt button view focu program press
+SWT,332917,1.0,1.0,1.0,xul xul runner runner runner path path work browser browser build identifi add dorg xulrunn properti mix find simpl instanc lead xpcom patch request
+SWT,320636,10.0,0.1,0.1,custom widget combo combo set set focu focu work build initi creation imho overrid forc method restor save shell
+SWT,281725,37.0,0.028687766,0.027027028,cocoa cocoa tab tab tab tab item item item set set imag imag imag imag work id step version version code problem platform platform don limit nativ widget note aren support shell shell folder folder data data fill fill control composit composit text text face face resourc resourc dialog dlg img img
+SWT,279676,1.0,0.50361013,1.0,illeg illeg state state map map map imag imag line line line line build id step editor editor editor implement document document document document workspac workspac workspac workspac modifi modifi modifi modifi oper oper oper oper updat run run run run pass progress progress progress progress monitor monitor monitor return abstract abstract abstract abstract text text text text code platform user user error error error error inform lang jface jface jface jface viewer viewer model model widget widget widget widget face util util intern intern intern intern sourc sourc sourc sourc diff diff diff diff painter painter painter painter column column column column number number number doubl buffer buffer access access control control control control type type type type handl handl handl handl event event event event tabl tabl send send send send draw draw draw draw canva canva canva canva proc proc carbon carbon carbon receiv nativ nativ method method method method loop loop timer bar bar set select dialog begin begin begin task task task action action action statu statu statu manag manag resourc store store default default default rang adapt custom custom custom custom style style style style content content unicod unicod unicod press press composit input input input input read dispatch databind observ realm creat app app adaptor launcher assert assert assert posit posit posit posit core ui
+SWT,386177,32.0,0.031498015,0.03125,open open gl gl gl close editor canva
+SWT,310401,20.0,0.05,0.05,combo combo combo combo show show item item item item set set set set layout snippet snippet snippet visibl find replac dialog dialog field field resiz import import widget class modifi string string string arg read read size length dispos dispos sleep displai shell shell
+SWT,341134,22.0,0.045454547,0.045454547,tree tree tree tree select select select select visibl visibl visibl item item item item collaps parent parent expand expand problem snippet add add press handl event event event code doit fals system println notifi gtk expect ctrl edit dialog open click locat button
+SWT,308381,111.0,0.009009009,0.009009009,access access access access scrollview hierarchi hierarchi app app scroll scroll scroll view view cocoa launch launch launch text text text text edit edit move editor editor window window window ax ax applic applic untitl area area open widget copyright packag
+SWT,298143,19.0,0.07393484,0.05263158,properti properti view view hover text behavior cocoa compar carbon carbon window window build identifi multipl line line show show singl visibl step figur
+SWT,328864,46.0,0.013497174,0.02173913,text text control lost focu setfocu cocoa empti
+SWT,279712,190.0,0.005263158,0.005263158,reset alpha ff effect
+SWT,294053,2.0,0.12544668,0.5,scrollabl scrollabl incorrectli rectangular shape shape shell shell user agent mozilla en build identifi window creat set region region region found embed checkbox tree tree viewer draw scroll scroll scroll inherit area modifi ad list problem bit bit cocoa cocoa id code
+SWT,386220,12.0,0.083333336,0.083333336,cocoa cocoa access access access access attribut attribut throw lang lang index index bound bound bound implement firstli retriev retriev count count count control control control control loop loop event event detail refer line problem return platform fix
+SWT,339116,37.0,0.020656371,0.027027028,hide menu
+SWT,384175,11.0,0.09090909,0.09090909,win text text set set messag messag lang string effect edit fals releas build id window
+SWT,421045,4.0,0.25,0.25,style text visual line index
+SWT,289974,18.0,0.055555556,0.055555556,wheel wheel wheel wheel vertic vertic horizont deprec code nan
+SWT,357559,133.0,0.00578369,0.007518797,tab folder view show overli button
+SWT,367809,15.0,0.042200178,0.06666667,path path path add add add string string handl unicod build build version id attempt render render render render kanji kanji kanji charact charact charact number note note appli gc draw screen code code run platform platform linux work line line show show execut librari observ shell
+SWT,339138,132.0,0.007575758,0.007575758,text text text text limit widget work work case cocoa append insert insert past don check test snippet string arg shell shell shell shell set set set size grid grid grid grid layout layout layout layout fals border multi data data data dispos dispos read sleep
+SWT,355524,179.0,0.005586592,0.005586592,style style style text text text text horizont scrollbar scrollbar scrollbar reset set set string build identifi clear clear updat problem occur select step run attach click button result result vertic press ctrl
+SWT,392389,17.0,0.05882353,0.05882353,skip gtk gtk check version
+SWT,341190,683.0,0.0018828125,0.0014641288,ctrl ctrl pass pass identifi browser widget widget focu machin bind dialog dialog standard step view press
+SWT,283850,45.0,0.022222223,0.022222223,browser browser browser browser function dispos dispos dispos class string string arg shell shell shell shell set set set layout layout layout fals data data fill fill text text html html html html input type onchang object object object object argument system println pack open
+SWT,365772,7.0,0.14285715,0.14285715,tooltip tooltip show show tool item item item toolbar toolbar
+SWT,328909,1.0,1.0,1.0,set foreground color color color eras item item item effect build build identifi select select select select row red text drawn white make line blank note affect face user cell cell tabl tabl tabl tabl focu owner draw draw highlight step import import import import layout widget widget widget widget event event shell shell shell shell class string arg final final system full full header visibl width add handl detail gc open dispos dispos
+SWT,326861,1.0,1.0,1.0,composit composit set set layout defer miss check widget ui thread thread throw error invalid access document method includ
+SWT,412880,38.0,0.015789473,0.02631579,gtk clean drop drop implement implement post patch
+SWT,345296,1.0,0.5042585,1.0,remov qt
+SWT,335056,1.0,1.0,1.0,link link widget widget show beam cursor cursor cocoa bit distract text control border size
+SWT,312528,20.0,0.05,0.05,add ref access parent
+SWT,386260,1.0,1.0,1.0,program program program program gnome gnome gnome gnome version build build id line gtk string string check mime mime mime mime type type type byte buffer wc mbc long ptr ptr vf applic return label label label label deleg jface jface jface messag occur find find ui ui ui ui intern intern intern intern registri registri registri registri editor editor editor editor system extern imag imag imag imag descriptor model base resourc resourc comput element explor explor navig navig navig navig content content content content column style style style style cell updat updat updat item item item item util util util struct struct struct struct access dispatch
+SWT,412885,1.0,1.0,1.0,gtk clean drop drop code combo combo
+SWT,341212,10.0,0.1,0.1,tree tree item item sort sort column background drawn select select select run control check multipl header visibl node
+SWT,382175,1.0,1.0,1.0,cairo cairo cairo imag imag imag imag creat creat creat creat extern extern gdk gdk pixmap pixmap pixmap drawn drawn gc gc gc draw draw draw draw window instanc gtk method method work disabl enabl invok data data code bitmap handl dispos save loader
+SWT,378081,1.0,0.7,1.0,combo send modifi event select item unchang
+SWT,392420,3.0,0.4166667,0.33333334,type queri queri class instanc size gtk gtk gtk longer access sizeof remov standard api retriev
+SWT,367848,37.0,0.027027028,0.027027028,typo text text text add add select select doc doc refer cancel cancel cancel icon
+SWT,394473,1.0,1.0,1.0,mozilla browser evalu xul xul runner runner support
+SWT,414957,4.0,0.25,0.25,scroll bar thumb bound navig mark occurr occurr scrollbar scrollbar scrollbar posit posit posit match match half full appli error work pre releas
+SWT,365807,1.0,0.64285713,1.0,tooltip tooltip cursor cursor version version gtk gtk move toolitem pop add code
+SWT,328945,16.0,0.0625,0.0625,awt applic nan
+SWT,353523,1.0,0.54,1.0,awt identifi final widget shell shell shell creat creat handl simpl test case attach attach time termin stack trace bit bit bit result user run run critic break compat step sampl happend line
+SWT,328950,275.0,0.0036363637,0.0036363637,test test test test failur failur window
+SWT,333053,71.0,0.019220367,0.014084507,multipl multipl compil warn warn warn error show platform temp temp temp folder folder dot dot src src src custom custom sash sash sash sash form form form form line line line orient orient method method method method overrid inherit inherit control control control packag set set set set style style style style text text text text
+SWT,351494,41.0,0.023823028,0.024390243,list grid layout linux gtk
+SWT,308496,8.0,0.125,0.125,pointer pointer browser browser browser handl dom event identifi releas embed page www www step launch instanc navig enter address password real field trigger
+SWT,308500,1.0,1.0,1.0,browser hook event safari
+SWT,292119,5.0,0.2,0.2,balloon balloon balloon tool tool tip tip titl text text text text long user agent mozilla window window window window nt en rv gecko build identifi widget object info messag messag messag messag exist tooltip tooltip tooltip tooltip set set set set char small border content note style icon wrap locat button button button button press visibl
+SWT,410904,258.0,0.003875969,0.003875969,system editor png default default text open file don case
+SWT,363801,5.0,0.2,0.2,combo combo initi visibl visibl item item item count count count
+SWT,294171,6.0,0.16666667,0.16666667,scroll scroll scroll scroll flush flush flush event event event event user mozilla window window nt de rv gecko build identifi problem resiz handl method method canva canva canva area area area area case copi ensur content drawn correctli intersect intersect step import import import import graphic graphic color rectangl layout layout layout layout fill widget widget widget widget class string arg set set set size redraw doubl buffer add add system println clip math math random random random dispos dispos diff diff dest dest dispatch sleep
+SWT,324892,1.0,1.0,1.0,constant constant ia event
+SWT,287234,150.0,0.006666667,0.006666667,dnd drag drop empti tabl gener
+SWT,335134,7.0,0.14285715,0.14285715,custom widget combo float list pop alt tab
+SWT,333086,2.0,0.5,0.5,warn warn warn wrt build build build build src src src src platform platform platform platform doc doc doc isv isv isv isv common common common tag tag refer refer refer found found widget widget gestur gestur gestur magnifi pan rotat swipe link
+SWT,343331,4.0,0.21255316,0.25,gl gl canva canva draw draw top top fast fast view view build identifi step launch includ attach lwjgl show toru minim overlap
+SWT,404776,1.0,1.0,1.0,fatal error soup session web kit gtk
+SWT,392488,31.0,0.032258064,0.032258064,browser browser browser xul xul xul runner runner runner travers default default older older version creat shell button button navig type char search search text press enter initi activ root dlgc send messag hwnd wm getdlgcod answer control translat
+SWT,316712,6.0,0.119302675,0.16666667,widget click click click empti empti space space view view view view open open left left left left packag regist regist doubl doubl vertic vertic posit posit detail platform fy
+SWT,392498,48.0,0.020833334,0.020833334,gc copyarea work linux
+SWT,388402,74.0,0.013513514,0.013513514,list list list list state item remov context menu trigger occur occur widget widget widget widget control control control control cocoa variabl string string string string equal stack stack stack trace trace window window window window copi debug view view view view daemon thread thread line line line line creat creat font doubl boolean boolean boolean boolean tabl tabl tabl tabl object object object object column row long long long proc proc proc objc objc objc objc msg msg msg msg send send send send super super super super rect rect rect nativ nativ nativ nativ method method method method draw applic applic applic applic event event event event match mask shell shell shell dispatch run run run run loop handler ui access platform start start app launcher starter accessor accessor invok invok invok invok core core observ ch adaptor adaptor
+SWT,337203,2.0,0.23360518,0.5,cocoa cocoa preview preview page ltk ui show show empti empti space click click build identifi dialog tree tree underneath white area select reset case window user step cursor method method file sourc add perform unexpect
+SWT,283958,106.0,0.009433962,0.009433962,multi work text control cocoa
+SWT,378168,28.0,0.035714287,0.035714287,group group client client area area area
+SWT,281912,6.0,0.09242424,0.16666667,print print printer printer printer longer work ct paper paper width mm window defin standard text face big page size small configur
+SWT,384315,7.0,0.18253969,0.14285715,virtual tabl access slow slow gtk open open type type type type ui cpu util version releas id asu laptop nvidia graphic perform charact enter singl unlock order size size max xmx search bit creat click move effect
+SWT,357696,6.0,0.16666667,0.16666667,cairo cairo gc gc gtk gtk automat oper version
+SWT,388419,37.0,0.027027028,0.027027028,focu focu focu type
+SWT,345411,6.0,0.16666667,0.16666667,tabl tabl tabl tabl pack make make column column column column width small small pixel pixel window window ad event event type measur measur item item item method show problem problem problem code code compil win win win win remov sampl class string string set set fill final header header visibl add overrid handl text size dispos dispos dispos
+SWT,335172,7.0,0.14285715,0.14285715,dnd feedback drag tabl item
+SWT,279877,1.0,1.0,1.0,cocoa set set set set clip clip clip clip transform
+SWT,290125,30.0,0.033333335,0.033333335,error build build build src platform platform doc isv isv isv isv custom widget widget common style text text argument tab stop paramet param warn
+SWT,286040,2.0,0.5,0.5,imag imag imag imag save save intern png png png encod encod write build id step loader loader load bit inform slowdown factor data alpha stream pixel pixel overhead big move loop manag increas perform patch
+SWT,292187,4.0,0.25,0.25,client site window instal
+SWT,296284,1.0,1.0,1.0,browser xulrunn xulrunn releas mozilla execut script script script script global global object object nsid nsid id id id id afecd cfd bbd context context adc prompt servic alert add error cert invalid
+SWT,322912,1.0,0.34645954,1.0,browser browser fail bit bit bit xul xul xul runner detect build identifi instal open open open open suse xulrunn xulrunn xulrunn xulrunn mozilla mozilla mozilla mozilla root root bugzilla bugzilla attempt error platform libxpcom libxpcom share share file file file gtk gtk librari librari intern ui dialog area web jface jface jface jface form form handl run run access core observ applic applic equinox equinox equinox equinox adaptor adaptor starter starter starter nativ nativ nativ nativ method method method method impl deleg user
+SWT,347490,42.0,0.019904763,0.023809524,shell shell shell shell set set set set input input input input mode mode mode mode flag flag expect expect expect chines chines chines singl singl space space space space doubl doubl build identifi nativ phonet half shape shape return return code import import import import widget event layout layout layout layout class snippet string arg border text text text data data data fill focu add press gener gener gener gener method method method method system system system println charact charact releas button button button select select select auto stub digit digit digit digit previou default size area show dispos dispos read dispatch sleep window
+SWT,329058,1.0,0.3936644,1.0,browser function map js
+SWT,310636,5.0,0.070361994,0.2,toolitem toolitem set set hot imag imag imag imag disabl cocoa cocoa run snippet window
+SWT,279917,115.0,0.008695652,0.008695652,editor work rc nan
+SWT,365934,5.0,0.123809524,0.2,event event button button button button mod map middl order modifi
+SWT,337263,15.0,0.06666667,0.06666667,line line line line attribut attribut attribut implement equal equal comparison client hash code
+SWT,318830,15.0,0.06666667,0.06666667,text text text text set set fail fail fail focu focu event event event singl access access access build cocoa char count comput method method content switch applic widget work work trace cell titl titl titl titl string string return sampl click area subsequ lose show implement complet field step run remov
+SWT,341361,44.0,0.022727273,0.022727273,test test failur failur text layout offset
+SWT,390514,14.0,0.071428575,0.071428575,content drop list list combo grid layout size
+SWT,320879,101.0,0.00990099,0.00990099,applic link widget invok keyboard
+SWT,286063,11.0,0.07670455,0.09090909,widget vertic scroll scroll bar text text control disabl enabl enabl build id step creat attribut rid add
+SWT,337269,2.0,0.5,0.5,tool tip visibl visibl dispos dispos creat tooltip tooltip gtk shell style
+SWT,376183,12.0,0.083333336,0.083333336,browser browser tab work xul xul runner runner window send wm wm getdlgcod msg answer dlgc dlgc wanttab result press travers
+SWT,310648,6.0,0.090090096,0.16666667,arrow arrow arrow open open open dropdown dropdown dropdown menu menu menu menu toolitem toolitem toolitem cocoa run snippet snippet snippet travers travers drop drop drop result focu expect window gtk gtk behavior toolbar tool tool item item item item modifi class string shell shell shell shell imag imag imag imag color color color color system blue gc gc gc gc set set set set background fill rectangl bound dispos dispos dispos bar bar bar bar border size pop push text text text add select handl handl event event event rect rect rect rect point point pt pt locat visibl read dispatch height
+SWT,392569,39.0,0.015590596,0.025641026,obtain color select function function retriev data read struct member directli
+SWT,284028,1.0,0.6450438,1.0,widget api api singl singl menu menu menu menu bar bar applic applic applic applic time support nativ shell shell lead problem problem problem window window window window open open open top activ dialog dialog find appl close end user user document oper oper break potenti select ad remov platform handl base prioriti
+SWT,408957,13.0,0.074722625,0.07692308,api doc text text text text char char char set
+SWT,411006,2.0,0.5,0.5,typo menu menu bound bound return gtk linux class widget method origin alloc alloc
+SWT,384381,3.0,0.33333334,0.33333334,html html transfer transfer utf copi clipboard compat past
+SWT,406912,20.0,0.05,0.05,support xul xul runner runner runner window
+SWT,292227,7.0,0.14285715,0.14285715,plug window window window lost focu focu focu creat creat creat shell shell socket user mozilla nt zh cn gecko build code detail add detect detect keyboard event event pop gtk gtk repar sock step process process id id launch input click press enter expect control
+SWT,310660,155.0,0.006451613,0.006451613,aioob text layout layout make commit commit test build observ observ motif platform platform platform fix open error error error error log log view view check resourc modifi save click invok invok fail execut runnabl lang lang index index bound bound widget widget widget widget synchron synchron run run run run async async messag messag read dispatch ui ui ui ui intern intern intern intern event event loop access core databind realm realm creat creat applic applic applic start start equinox app handl handl adaptor adaptor launcher starter starter nativ nativ nativ nativ method method method method accessor accessor impl impl deleg deleg deleg framework basic graphic graphic comput custom custom style style render calcul lock lock id
+SWT,316806,7.0,0.14285715,0.14285715,refresh problem tabl tabl window vista snippet press press end show item item item item select select select del delet note index index empti text text count
+SWT,421255,271.0,0.003690037,0.003690037,access read text text label field
+SWT,365961,168.0,0.005952381,0.005952381,style text comput comput control size wrap
+SWT,316811,2.0,0.2580285,0.5,safari refer web web kit window browser implement
+SWT,339342,1.0,1.0,1.0,tab tab tab tab folder folder throw throw illeg illeg argument argument dispos dispos dispos dispos control control control set set set set top top top default button button button method method decor shell shell trim fill close close composit composit open read
+SWT,339344,12.0,0.04551282,0.083333336,tab tab tab tab folder folder folder folder dispos dispos dispos dispos top top control control control render composit composit composit composit aren layout layout layout problem appli shell shell shell shell trim set set set set fill close open read dispatch sleep thread widget widget widget widget error error error error check check comput size size size size custom button bound bound bound bound updat updat item item resiz handl event event event event tabl send send send send scrollabl scrollabl scrollabl scrollabl proc intern intern intern win win win def def nativ method po po canva canva canva canva decor decor show visibl visibl visibl displai
+SWT,339345,2.0,0.5,0.5,class class class cast cast cast cast drop drop drop drop target target target target list list list cocoa cocoa cocoa cocoa run dnd dnd drag thread lang widget widget widget widget tabl tabl tabl tabl view valid row oper proc proc intern intern objc objc objc msg msg msg send send send super super super nativ nativ nativ method method enter control control window window applic applic read dispatch open
+SWT,312722,1.0,1.0,1.0,miss add add ref relat
+SWT,288146,36.0,0.027777778,0.027777778,appli patch patch build id open copi valid clipboard clipboard select locat click result freez close close button log failur expos fs test investig work work ad configur make attach entri don inform
+SWT,325012,1.0,1.0,1.0,color color color color return return dialog dialog shift base calibr calibr space build identifi rgb rgb rgb gener devic user user user manipul transform convert object convers lead case handl thing enter enter retain step open open map pass back
+SWT,322966,39.0,0.025641026,0.025641026,button button button button comput size
+SWT,378264,1.0,1.0,1.0,updat updat tab folder doc reflect behavior wrt top control wrap
+SWT,341402,9.0,0.098426186,0.11111111,cocoa cocoa save editor direct respons process path user applic applic applic applic app app app content identifi version version version code code code type type nativ nativ parent dcb exc kern invalid thread thread thread thread dispatch dispatch appl specif specif inform inform send send send selector selector bu error hot bit server mix mode amd id stack intern intern intern intern widget widget widget widget match proc routin read run run run run observ observ platform ljava ljava runnabl method method method method invok invok basic manag sweep virtual argument interfac object object event
+SWT,290204,2.0,0.45,0.5,gtk gtk stock stock clear cancel text icon hint support
+SWT,343454,24.0,0.041666668,0.041666668,xul runner open browser relat
+SWT,312734,4.0,0.325,0.25,incorrect gc gc color color color tabl tabl tabl tabl item item item item event event event event row row select select select select eras eras eras build identifi foreground background run snippet snippet focu step import import graphic rectangl rectangl rectangl layout layout fill fill widget class test string arg shell shell shell shell set set set set vertic border border column column column column text text text text add handl bound bound bound bound index index height draw drawn dispos dispos displai
+SWT,286113,48.0,0.020833334,0.020833334,list control item select select handl event
+SWT,392610,2.0,0.3611111,0.5,gdk gdk gdk default gtk gtk path fail conveni api
+SWT,392616,10.0,0.05666667,0.1,gtk gtk access widget widget suppos function read struct field
+SWT,290216,2.0,0.5,0.5,build build build compil warn awt awt line line import import intern intern cocoa cocoa widget widget shell shell util util
+SWT,372138,1.0,0.8333334,1.0,js evalu asynchron xul runner runner default code path mozilla mozilla execut fail back pre part work import nativ interfac note includ script script context global object make hack
+SWT,372145,7.0,0.14285715,0.14285715,inhertit forc forc composit background mode talk sound inherit polit context
+SWT,310707,35.0,0.028571429,0.028571429,print print file file file file test build observ bit bit bit bit vista machin machin window xp open invok press enter check occasion occur repeat time unexpect error detect hot hot spot spot virtual access violat eee eee eee eee pid tid server mix mode frame frame frame winspool winspool drv drv thread thread thread thread cde cde cde cde nativ nativ nativ nativ id id id id siginfo code code code code read address eax cee cee ecx edx de de de esp ecef ecef ecef ecef ebp esi edi eip eflag top stack stack ad ecf free space space compil compil vv vv intern intern win win win win delet dc dc graphic devic jface text text text run stub stub routin ui reconcil manag idl cdd index provis dispatch dispatch dispatch data watcher def ab ab total ff ff dhcpcsvc dhcpcsvc built oct
+SWT,298424,2.0,0.5,0.5,shell shell shell comput comput trim trim return result result design cocoa method creat rectangl rectangl
+SWT,292281,158.0,0.006329114,0.006329114,fast view view view trigger synchron open progress progress bottom screen hover link dialog found sync
+SWT,359869,14.0,0.061355315,0.071428575,select highlight highlight text text text style work work cairo graphic rang rang editor search refer note copi past show logic
+SWT,294335,-1.0,0.0,0.0,perform
+SWT,290240,6.0,0.16666667,0.16666667,link link link link set set text text text doesn reset anchor blue color underlin revers order window carbon cocoa
+SWT,298435,1.0,0.6111111,1.0,fullscreen mode shell set full screen screen work primari monitor monitor window window window test xp
+SWT,409029,32.0,0.03125,0.03125,tab folder context menu open invok keyboard
+SWT,280005,1.0,0.5133333,1.0,code code code build id id step base core point point modul modul libgtk address xmthreadinfo xmthreadinfo tid thread thread state prio nativ nativ nativ nativ prioriti polici unknown intern intern gtk gtk context context iter iter method compil compil widget read ui run event loop inform inform
+SWT,335304,1.0,1.0,1.0,date date date time time time dropdown dropdown hide arrow arrow button button cocoa step control control control select drop click click open calendar calendar toggl show
+SWT,327113,1.0,1.0,1.0,style text add add word word movement movement mistak build check widget error error argument previou
+SWT,335307,4.0,0.16666667,0.25,redraw tabl tabl tree tree header scroll scroll cocoa build dialog instal instal instal control step checkbox checkbox column column visibl visibl back text correctli
+SWT,329181,6.0,0.16666667,0.16666667,shell shell shell shell resiz resiz resiz sheet sheet sheet style style style pack pack pack build identifi cocoa includ leav window work correctli step import import import import layout layout layout layout fill fill grid widget widget widget widget button button button button event class test string arg margin margin width height set set add select handl dialog trim open open dispos dispos sleep
+SWT,388574,23.0,0.0256151,0.04347826,text control lose focu focu focu focu movement
+SWT,304606,7.0,0.14285715,0.14285715,tabl eras item scroll scroll launch attach snippet horizont horizont left left select line observ vista id found empti
+SWT,294368,1.0,0.28194174,1.0,mozilla browser app app file file loc cach cach answer locat prof part initi mess directori directori servic servic empti back check refresh regist set properti
+SWT,292321,20.0,0.07714977,0.05,string string garbag autoreleas pool put object object releas releas
+SWT,355815,132.0,0.007575758,0.007575758,caret caret move move build identifi style style style style text text text object check check ad event event type type access made
+SWT,378344,46.0,0.02173913,0.02173913,api tool tool report report tag segment interfac method
+SWT,298473,1.0,0.76666665,1.0,safari web kit navig blank set set text text implement result page doesn entri histori
+SWT,312810,91.0,0.013897868,0.010989011,remov code inadvert commit
+SWT,292333,14.0,0.03794146,0.071428575,color color dialog return return bit bit cocoa user mozilla window window nt en rv gecko net clr build identifi run version step
+SWT,323056,1.0,1.0,1.0,access access hyperlink return address
+SWT,308724,417.0,0.0023980816,0.0023980816,warn warn warn warn temp temp folder dot src widget text line line import
+SWT,312830,1.0,1.0,1.0,mozilla mozilla xpcom error error error remov remov dom show page base browser browser creat fail set set text text brought dispos unhook unhook unhook failur leav underli state origin firstli matter function
+SWT,329216,45.0,0.022222223,0.022222223,style style text text text implement access edit edit
+SWT,343560,21.0,0.04761905,0.04761905,exec read read dispatch dispatch return run run snippet stop move type platform cocoa sequenc print loop loop loop loop fals fals import widget class sync thread thread thread thread string arg final shell shell shell dispos dispos async async wake throwabl open event event println
+SWT,316938,44.0,0.03219697,0.022727273,incorrect signatur window window properti long attach patch problem open
+SWT,413195,2.0,0.5,0.5,gtk clean label label widget widget unus
+SWT,333323,1.0,1.0,1.0,browser browser browser mozilla mozilla mozilla memori memori memori embed widget widget build identifi creat big page page move mb mb minut applic applic applic size nativ code test test import xul xul snippet argument path path xulrunn refresh open manag
+SWT,413197,3.0,0.33333334,0.33333334,gtk gtk clean menu menu widget widget unus guard
+SWT,335373,1.0,1.0,1.0,frame frame frame frame url browser browser browser browser evalu evalu method method method method build app manag manag content dynam javascript creat attempt row stack pointer mozilla mozilla mozilla mozilla execut execut state intern intern intern xpcom xpcom xpcom xpcom script script princip snippet snippet snippet snippet widget widget widget widget event event function function function simpl dir html load button applic
+SWT,413199,2.0,0.5,0.5,gtk gtk gtk clean messag messag box box widget widget widget widget unus version guard guard guard
+SWT,413200,2.0,0.5,0.5,gtk clean remov code scrollabl scrollabl widget
+SWT,378383,1.0,0.5473485,1.0,request notif full screen
+SWT,290320,1.0,0.5477444,1.0,overrid present mode info plist cocoa carbon shell updat system ui ui ui reset overwrit set
+SWT,388628,89.0,0.011235955,0.011235955,viewer lazi tree content refresh node select owner draw label
+SWT,323092,1.0,1.0,1.0,scroll bar select event detail field set correctli end drag
+SWT,335382,7.0,0.14285715,0.14285715,web web kit gtk gtk gtk throw webkit style style implement implement browser browser browser factori attempt creat initi fail load librari don
+SWT,325153,5.0,0.25302973,0.2,color space cocoa
+SWT,386594,1.0,0.7066708,1.0,gtk gtk gtk widget widget visibl visibl
+SWT,314914,1.0,1.0,1.0,confus grid grid grid grid data data data data class doc doc pre pre pre style style bit defin code code button set layout horizont horizont horizont align fill fill fill grab boolean
+SWT,425516,48.0,0.10446103,0.020833334,remov test test test test instanti class suppos illus run realiti complic case method method make execut parent
+SWT,331310,1.0,1.0,1.0,swtlib swtlib swtlib swtlib left directori directori directori directori writabl writabl writabl mode chmod secur secur secur build identifi memori memori analyz analyz leav data case system system system system exec path librari librari librari wide flag flag sensit user user run run remov ls file set version
+SWT,345650,8.0,0.08377659,0.125,fill fill gradient rectangl result screen gtk version date
+SWT,394803,4.0,0.25,0.25,tab tab folder folder api render part
+SWT,390713,4.0,0.25,0.25,tab tab travers travers bit tool tool bar bar switch code long keyboard focu id method method control break toolbar
+SWT,290373,84.0,0.008732702,0.011904762,graphic line line line honor print print print margin margin margin margin user mozilla en appl web kit gecko version version safari build build identifi id sourc set set word insert insert point point hand edg dialog open check formatt text step creat file char
+SWT,392774,1.0,0.91111106,1.0,gtk gtk gtk implement tabl tree tree sourc sourc effect drag drag imag view creat row icon return cairo surfac gdk gdk pixmap pixmap releas version check make gc dynam
+SWT,333386,26.0,0.03846154,0.03846154,behavior behavior combo set item cocoa cocoa
+SWT,300620,6.0,0.11356946,0.16666667,command command command work tree tree cocoa carbon beep event miss visibl search view step match revers shift editor
+SWT,390734,53.0,0.018867925,0.018867925,full full keyboard access access access order travers travers travers tree version build id id longer enabl control control system system set text box list
+SWT,390735,4.0,0.031813525,0.25,fix object id id id bit code code code search string defin long found
+SWT,392784,3.0,0.30952382,0.33333334,gtk gtk implement control control print make ap reimplement gdk pixmap xid drawabl depth
+SWT,392785,1.0,1.0,1.0,gtk gtk cursor cursor cursor cursor ap longer exist gdk gdk bitmap creat data pixmap implement pixbuf
+SWT,345682,1.0,0.38141027,1.0,web kit gtk detect
+SWT,364116,1.0,0.24702053,1.0,open open file file dialog dialog row row build build identifi id memori access locat eip detect applic plain app updat updat step creat
+SWT,337499,18.0,0.03888889,0.055555556,awt
+SWT,327260,1.0,1.0,1.0,focu focu focu focu ring ring tree tree window window win win item item item keyboard dot plain multi unselect select eras
+SWT,290395,30.0,0.033333335,0.033333335,widget gtk updat problem instal dialog
+SWT,290397,42.0,0.023809524,0.023809524,access win
+SWT,312927,105.0,0.00952381,0.00952381,tab tab tab item item item role descript ax radio button button
+SWT,300641,11.0,0.08427128,0.09090909,warn warn build temp folder dot src access access line import nan
+SWT,394851,9.0,0.11111111,0.11111111,browser invalid secur set return leav blank
+SWT,392811,1.0,0.8333334,1.0,replac gtk gtk gtk gtk combo combo combo box box text text text code adapt
+SWT,347756,14.0,0.071428575,0.071428575,keyboard event receiv receiv shell shell resiz resiz style style regist
+SWT,304750,1.0,1.0,1.0,iae set set menu menu menu menu task item item cascad
+SWT,364144,88.0,0.011363637,0.011363637,warn warn warn warn build build src src platform platform doc isv isv isv custom custom widget widget common tree cursor tag refer found select event
+SWT,378482,1.0,1.0,1.0,object object object emit warn warn tool tool item item gtk gtk gtk creat creat menu menu menu proxi build fix retriev properti set imag imag messag valist class
+SWT,349812,8.0,0.017016675,0.125,rotat gestur gestur work bit bit build build build cocoa version id step run snippet trackpad recogn event field
+SWT,380533,5.0,0.2,0.2,program hash hash hash code code code code gtk
+SWT,282229,8.0,0.053840157,0.125,scroll scroll editor slow build id step creat creat long class inform
+SWT,298612,1.0,0.537037,1.0,gio mime mime mime info file file descriptor share glob glob run cdt save save modifi workspac state exit detail area error box system system open open ls proc pid pid fd process id time configur instal platform
+SWT,325241,3.0,0.17738853,0.33333334,tabl tabl tabl tabl checkbox column column column column move drag drag drag drag drop class snippet string string string arg titl titl error error question question shell shell shell set set set set grid grid grid multi check check check check border data data data data fill fill height hint line visibl visibl header length length length text text text text moveabl count count item item item item info dispos dispos step run click box unabl cursor cursor hand insert
+SWT,317051,4.0,0.20263158,0.25,reduc item item item item count count count count send select select select select event event event event tabl tabl tabl tabl tree tree run snippet wait receiv set set set set win gtk gtk carbon case fals note note number row string arg final final shell shell bound fill multi text add handl system println timer dispos dispos open
+SWT,312956,3.0,0.33333334,0.33333334,gc text text text text extent extent string string string string index index bound gdi present snippet import import import import event event event graphic graphic font font font font widget widget shell shell shell shell class test final final tahoma add control antialia draw draw clip pt pt pt pt dispos dispos dispos launch applic anti alia advanc flag support critic fix set set
+SWT,376448,10.0,0.085779525,0.1,aix aix aix directori dialog return select path path charact build build identifi bit local japanes descript import step creat folder workspac point expect result result box blank
+SWT,312960,40.0,0.025,0.025,custom custom popup list list list list set set set scroll scroll scroll style style style widget widget widget build identifi method argument constructor block tooltip wrap
+SWT,310912,3.0,0.33333334,0.33333334,read style text line line assist open class move caret note
+SWT,413316,11.0,0.09090909,0.09090909,gtk gtk gtk gtk clean clean remov remov code code code shell shell widget widget widget guard guard guard unus
+SWT,358022,4.0,0.13266884,0.25,set text editor background black cursor invis
+SWT,392839,1.0,0.9659091,1.0,gtk gtk replac adjust accessor
+SWT,333448,60.0,0.012700146,0.016666668,radio button group group read correctli
+SWT,304780,1383.0,7.230658E-4,7.230658E-4,file dialog attempt import ui freez filedialog open problem referenc build id
+SWT,413325,1.0,1.0,1.0,gtk gtk gtk clean clean font font dialog widget widget widget unus unus version version version version guard guard guard
+SWT,294542,89.0,0.0056179776,0.011235955,wrap search histori
+SWT,413328,1.0,1.0,1.0,gtk gtk gtk gtk clean clean expand expand bar bar widget widget widget code code version version version unus guard guard guard
+SWT,413331,1.0,1.0,1.0,gtk gtk gtk gtk clean clean display widget widget widget widget unus version version version guard guard guard guard
+SWT,323219,1.0,1.0,1.0,spinner set set digit digit trigger select event event event linux window window build identifi fire attach test make work step creat xx
+SWT,413333,2.0,0.5,0.5,gtk gtk gtk gtk clean clean slider slider widget widget widget widget version version version guard guard guard guard
+SWT,413334,1.0,1.0,1.0,gtk gtk gtk clean clean directori directori dialog dialog widget widget widget widget unus unus version version version version guard guard guard guard
+SWT,413335,8.0,0.125,0.125,gtk gtk gtk gtk clean clean control control widget widget widget widget unus code code guard guard guard guard
+SWT,409239,1.0,1.0,1.0,win menu menu code widget widget widget updat background background brush brush delet object object releas releas imag check
+SWT,413337,2.0,0.5,0.5,gtk gtk gtk gtk clean clean color color dialog widget widget widget widget unus guard guard guard guard version version
+SWT,413338,5.0,0.2,0.2,gtk gtk gtk gtk clean button button widget widget widget widget unus version version guard guard guard guard
+SWT,362133,1.0,1.0,1.0,item item item item show highlight imag imag imag work work build identifi back step run code snippet click click origin trai
+SWT,310932,47.0,0.02345881,0.021276595,tabl tabl tabl tabl scroll scroll scroll perform perform perform motif motif ppc ppc platform multipl queri color color color widget widget widget identifi open open open text text technolog demand run applic applic applic row make unus linux gtk cell creat creat creat view view view view class class class class viewer viewer viewer viewer content label label imag part part part string string string string id id object object object object return return return return input parent parent data data data index index index singl img callback initi multi visibl visibl focu focu request control set column
+SWT,403102,22.0,0.045454547,0.045454547,gtk pointer imag imag move move editor view view test build open space left resiz arrow adopt sash separ
+SWT,368290,1.0,1.0,1.0,browser pass js boolean fail javascript core compon web web kit kit gtk gtk api resolv ref
+SWT,304802,56.0,0.017857144,0.017857144,useless default default size size text text cocoa cocoa build identifi comput return window linux width pixel pixel behavior step run test case field wide
+SWT,327332,44.0,0.022727273,0.022727273,tree show hand hand hand hand pointer default window
+SWT,370355,30.0,0.033333335,0.033333335,combo combo combo combo show show focu focu focu focu ring case step problem problem problem problem hover hover click icon open page set set set set press ui snippet final shell shell shell shell layout layout label label label label text text drop drop read read item string string button button button button filter handl code redraw redraw dispos dispos sleep displai displai
+SWT,333493,27.0,0.037037037,0.037037037,dispos dispos widget widget widget widget close close editor editor editor browser browser browser ctrl ctrl open file web occur error error error check data win win win frame frame msg proc proc intern intern intern intern peek peek messag messag method read dispatch run run run run event loop access core databind observ realm creat platform platform applic applic applic start start start equinox equinox adaptor adaptor adaptor adaptor starter starter starter accessor accessor impl impl invok sourc deleg lang framework basic
+SWT,333500,3.0,0.33333334,0.33333334,text text control control control control multi style incorrectli disabl build identifi releas cocoa cocoa ws singl singl line line set set enabl fals run tab select select
+SWT,331453,3.0,0.33333334,0.33333334,unicod unicod width width space space complet editor editor editor build identifi render render render error error error error log log log past past charact charact charact charact stacktrac plain text file continu run problem occur specif step open open bugzilla includ invis observ full index window break break multipl time part
+SWT,327362,5.0,0.2,0.2,set set url url url url navig blank real real break break web web histori histori api applic fail base browser fix length equal case
+SWT,288452,56.0,0.017857144,0.017857144,text layout render underlin badli antialia user agent mozilla linux fr rv gecko build line version version snippet detail
+SWT,390853,13.0,0.12881564,0.07692308,browser browser browser detect xul runner web kit fail
+SWT,327365,16.0,0.026553279,0.0625,method method method intern intern cocoa class make applic front window set repres filenam tweak unabl directli add add decid
+SWT,339655,2.0,0.5,0.5,program program program program execut execut string string string file file file file argument argument argument cocoa open open method select editor system browser browser wrongli escap result url url text text document html foo find add lowercas start
+SWT,298698,203.0,0.01126497,0.0049261083,form vt make style style text text crazi
+SWT,331474,2.0,0.2544053,0.5,shell shell shell shell size size size return return incorrect height height sheet sheet sheet resiz resiz resiz resiz style style build cocoa bit run code point problem occur set set step import import import import layout layout layout layout fill fill widget widget widget widget button event event class string margin margin width push push text add select handl popup popup println dispos dispos read sleep identifi
+SWT,302802,123.0,0.008130081,0.008130081,absolut absolut posit posit posit shift shift pixel pixel vertic cocoa cocoa build identifi version widget widget widget widget set set bound bound height height decim separ label horizont direct parent type problem text text code applic applic combo group platform window copi imag screen layer
+SWT,319188,1.0,1.0,1.0,locat locat locat locat xulrunn xulrunn initi initi browser build identifi line mozilla mozilla execut app file loc path add ref string string script deleg js librari
+SWT,384725,16.0,0.0625,0.0625,linux linux access access access build identifi transit gnome toolbar present button label label window window window window instal tree tree view view item react keyboard don problem flat mode track arrow arrow check check check thing press updat site select combo box exist
+SWT,288468,1.0,0.625,1.0,widget widget setup event event event event detail detail detail argument incorrect tree tree tree item item item cocoa cocoa user mozilla en rv gecko build line line file set select select select select bit bit incorrectli paramet draw draw variabl result previou eras eras spec behavior window background clear
+SWT,280277,12.0,0.06345853,0.083333336,file dialog investig debug mix applic elimin memori tool grow number nscf ae list impl object stack trace show creat intern carbon carbon run function spuriou
+SWT,386778,4.0,0.15441176,0.25,omit deprec gtk gtk widget widget set set
+SWT,288474,1.0,1.0,1.0,save save docx file file fail winword winword process process close close user mozilla window window nt en rv gecko identifi edit editor work made made check run step make
+SWT,288480,2.0,0.5,0.5,label creat view regist regist
+SWT,335589,28.0,0.035714287,0.035714287,move move event cocoa press press left left button button ui hover hover don build build find sash layout print debug area view make
+SWT,407270,1.0,0.37828287,1.0,miss miss check check access access access access remov remov remov method method instanc control control note empti pointer
+SWT,317163,1.0,0.2951697,1.0,browser browser browser browser dispatch platform platform platform platform specif implement implement room class class class detect style mozilla mozilla mozilla mozilla equal equal equal equal wpf gtk carbon cocoa safari photon dispos error error handl make hard add find method instanc web version
+SWT,329456,1.0,0.5077615,1.0,add add add api access access applic applic applic applic menu menu menu menu system system system win win win gtk gtk control set set text enabl disabl hide item item item item select word treat likewis linux linux linux window awt awt load creat modifi tool work
+SWT,403191,14.0,0.07919255,0.071428575,gtk implement fix height width method
+SWT,298744,30.0,0.019642858,0.033333335,program open ur ls extern browser
+SWT,288506,8.0,0.125,0.125,widget directori dialog show hidden file
+SWT,405244,1.0,0.188887,1.0,access access access access suppli suppli group group group group posit posit posit inform inform inform inform support method method method implement implement tool tool radio radio button work fix set set set set control control control control pass event event event event id acc childid childid detail detail detail level level item item item item return return return long handl add tree size element style style determin count parent length instanceof move move move move memori debug print fals fals final
+SWT,306941,161.0,0.0062111802,0.0062111802,select bring window top
+SWT,315140,1.0,1.0,1.0,style style style style text text text rtf writer font font font rc creat simpl rich editor order clipboard run defin write data
+SWT,362246,1.0,0.53846157,1.0,platform launch launch work gio gio system system file file path path path function function function local local fail http ftp commandlin arg handl uri gnome gnome vf fallback attach patch master identifi start releas fedora program
+SWT,325383,13.0,0.045503795,0.07692308,style style style style text text text text problem layout presenc ligatur creat mini snippet shell shell scroll scroll enter charact charact observ cursor cursor move note posit fi
+SWT,343816,51.0,0.019607844,0.019607844,item item item list list list list drag drag drag cocoa cocoa cocoa dnd select select occur thread lang pointer widget widget widget widget control control creat creat string tabl tabl tabl tabl view view object object object object column row window window proc proc intern intern objc objc objc msg msg msg send send send super super nativ nativ nativ method method method draw rect applic applic applic match match mask mask read dispatch open
+SWT,290568,9.0,0.11111111,0.11111111,dnd invalid invalid memori memori access access dispos dispos dispos drag drag drag finish user agent mozilla en gecko build composit end version cocoa bit test
+SWT,376589,26.0,0.03846154,0.03846154,clipboard content html transfer instanc return gtk
+SWT,302861,1.0,1.0,1.0,program program gio problem instanc error find attach bye
+SWT,413455,3.0,0.33333334,0.33333334,gtk gtk gtk clean remov remov unus scroll scroll window window window vscrollbar
+SWT,413457,1.0,1.0,1.0,gtk gtk clean file file dialog dialog dialog widget widget widget unus unus version version version version guard guard guard
+SWT,349978,41.0,0.032579973,0.024390243,access access access access send send send event event event event object object object data id id build identifi version version tool tool bar bar control nativ base draw ui support support init tab folder folder receiv properti constructor parent parent implement creat code
+SWT,368417,1.0,1.0,1.0,move cursor cursor arrow arrow multilin style style text text text word word wrap wrap nonzero margin margin margin margin freez press press effect build build identifi version servic releas id top top top visual visual line line line line index index index index ad layout layout layout layout offset offset offset offset bound caret caret caret caret locat locat pixel pixel pixel align lead return explicitli subtract includ calcul step run snippet snippet class string string final final final final multi open dispos dispos time work
+SWT,313121,180.0,0.004774809,0.0055555557,font font font font dialog dialog dialog dialog doesn return return return select select open multi text text text text class string arg final final final shell shell shell shell set set set set layout layout widget data data data data system dispos dispos read sleep creat style style style
+SWT,317219,10.0,0.1,0.1,shell shell shell move move move show show widget widget widget widget visibl visibl area frame snippet import import import import layout layout grid button class string set set set fals fals push push text dispos dispos read doesn
+SWT,345892,21.0,0.016193768,0.04761905,select tree
+SWT,423721,1.0,0.33491734,1.0,workspac full tool tool error error error error sourc code enabl report bit bit problem problem fill syntax level greater miss valid make
+SWT,339754,1.0,1.0,1.0,date date time mark calendar calendar calendar style
+SWT,358188,18.0,0.055555556,0.055555556,horizont horizont align align align style style style style text text text text work singl singl build identifi left set multi wrap creat center caret problem layout return number defin code snippet parent bound rectangl
+SWT,323373,2.0,0.5,0.5,style style style style text text text text render render link link invalid index index rang rang rang rang defin build build implement custom custom line line line color event cursor cursor work length length length start start offset offset underlin case replac identifi
+SWT,399151,13.0,0.07692308,0.07692308,focu pass window window minim
+SWT,397107,6.0,0.13864821,0.16666667,gtk gtk gtk gtk tab tab tab tab folder folder folder render render render render run run run run fedora problem view empti click descript header sort cpu stack runnabl runnabl lang thread thread thread state intern intern intern intern gdk gdk gdk region region region region creat creat nativ method method graphic graphic polygon add custom custom custom custom draw draw draw draw background select select handl handl event event event event widget widget widget widget tabl tabl send send send send control control proc proc proc oper oper show set field defer core core applic applic start starter starter accessor accessor impl impl impl invok deleg basic time line access access displai
+SWT,362291,1.0,1.0,1.0,drag webkit browser browser browser disabl
+SWT,298805,17.0,0.05882353,0.05882353,widget gtk blank page page instal build api branch miss select hit detail note enabl accept
+SWT,292665,11.0,0.09090909,0.09090909,file open open open dialog rememb folder user agent mozilla window window nt en rv gecko build identifi directori step specif
+SWT,380730,9.0,0.11111111,0.11111111,graphic graphic imag imag transform transform tab neg number number greater degre rotat translat capabl
+SWT,411452,3.0,0.33333334,0.33333334,search reusabl export gtk
+SWT,333630,1.0,1.0,1.0,access shell dll task bar directori
+SWT,345924,210.0,0.004761905,0.004761905,input work expos
+SWT,317255,21.0,0.045548655,0.04761905,clipboard clipboard data lost exit implement freedesktop specif manag
+SWT,282441,1.0,1.0,1.0,win system system menu menu trim trim shell shell shell shell task bar bar build id step alt close window window entri
+SWT,290635,9.0,0.14646465,0.11111111,awt awt dispos dispos dispos dispos embed embed shell shell shell user mozilla window window nt en rv gecko build identifi cocoa cocoa work platform pointer context applic applic make step emb control base action
+SWT,386893,1.0,1.0,1.0,omit deprec gtk accel accel label set string
+SWT,321359,3.0,0.33333334,0.33333334,purpl icon draw imag imag imag imag cairo solari sparc big endian import import import import custom graphic layout layout layout layout fill grid widget class string arg add handl event gc gc gc gc devic devic devic devic set set set set system system system system color color color color red green background background blue rectangl dispos data data data data alpha ff advanc advanc println read sleep bound
+SWT,372560,5.0,0.2,0.2,error dispos combo
+SWT,294737,3.0,0.36666667,0.33333334,file dialog set filter filter extens extens extens extens work point user mozilla macintosh appl web kit khtml gecko version safari build identifi select desir type open window attach profil
+SWT,311129,7.0,0.14285715,0.14285715,browser browser mozilla code pars pars pars pars method method id id id id class build identifi creat string string string string object object object thousand temp creation singl instanc str str str str throw throw throw throw error error error error integ integ integ integ substr substr substr substr char char char short short byte byte byte byte
+SWT,313182,2.0,0.5,0.5,command line option ia
+SWT,374628,1.0,1.0,1.0,gc set background pattern draw correctli cocoa
+SWT,302950,16.0,0.0625,0.0625,cdd postpaint event widget tree loop build build identifi test specif configur configur win win win window id command rc rc emf step run detail import web html page visual visual editor editor editor plug initi mozilla mozilla browser xulrunn properti properti properti view view select select file file file explor set focu
+SWT,329576,1.0,1.0,1.0,toolbar toolbar button button button highlight background cocoa press imag imag
+SWT,294761,17.0,0.05322129,0.05882353,gripper icon statu bar bar transpar user mozilla window window window en rv gecko clr identifi hand side resiz nativ shell background color step creat lower corner
+SWT,313197,38.0,0.038157895,0.02631579,tabl tabl tabl tabl send send send send doubl doubl doubl doubl select select click click item item item cocoa cocoa run snippet creat check style text thread lang pointer widget widget widget widget window proc intern intern msg super super nativ method method control control event event event shell shell applic applic applic read dispatch
+SWT,384886,2.0,0.38690475,0.5,bidi text text text text add add segment segment client set set equival api style account respons user input widget
+SWT,384887,8.0,0.125,0.125,bidi text text add segment segment fail line delimit char
+SWT,382840,7.0,0.179156,0.14285715,tabl tabl tabl set set select select select select show show show client remov
+SWT,372599,3.0,0.33333334,0.33333334,draw draw draw cairo cairo text layout oval
+SWT,313208,5.0,0.057969976,0.2,shell focu focu problem close dialog dialog dialog dialog cocoa work win step open properti properti properti click click click doubl creat ant cancel tab tab tab tab ctrl don move command command applic activ color trim button button back press expect find add resourc filter edit
+SWT,391035,522.0,0.0019157088,0.0019157088,start download
+SWT,345979,8.0,0.063855015,0.125,build identifi instal bit bit version
+SWT,343932,20.0,0.05,0.05,browser browser function invoc build identifi run applic start complet step instal instal window window server
+SWT,388990,103.0,0.008651644,0.009708738,test failur linux style text line line index pixel
+SWT,302972,23.0,0.04347826,0.04347826,gif origin origin geometri wrongli render render transpar transpar window window find imag imag imag imag offset real content top left corner affect work creat icon label pixel fill palett color attach
+SWT,341895,1.0,1.0,1.0,dnd dnd action action abstract tree tree tree viewer lead applic applic freez carbon carbon big occur point wasn check step time
+SWT,327560,3.0,0.30952382,0.33333334,fail creat citrix client
+SWT,313223,7.0,0.06795982,0.14285715,style style style text text text text updat defer flush content custom custom control control launch switch check horizont fill fill vertic checkbox start type type fraction compar
+SWT,391050,1.0,0.72222227,1.0,replac gdk region cairo method gtk
+SWT,403346,6.0,0.16666667,0.16666667,tree tree tree tree viewer throw collaps multi select select multipl element packag explor toolbar button start problem
+SWT,331676,330.0,0.0025568914,0.003030303,test test test test failur cocoa
+SWT,288669,3.0,0.19237961,0.33333334,widget modal state shell dialog pop
+SWT,368543,146.0,0.006849315,0.006849315,window linux
+SWT,407457,1.0,1.0,1.0,browser browser longer rc test pass sparc mozilla base platform problem introduc merg xul runner
+SWT,395169,75.0,0.013333334,0.013333334,tabl content scroll horizont window
+SWT,382887,1.0,1.0,1.0,custom control control tab tab tab folder folder set set top top top test toolbar style fill wrap select
+SWT,292780,91.0,0.010989011,0.010989011,fail dispos gc huge error messag spew
+SWT,305070,4.0,0.25,0.25,combo combo combo combo throw event event event event doit forward drop list creat object object object set set fals fals fals attach snippet
+SWT,311216,4.0,0.25,0.25,directori directori directori directori dialog dialog rememb select select select fix file subsequ open miss appli
+SWT,331698,112.0,0.008928572,0.008928572,focu restor breadcrumb bar
+SWT,425907,1.0,1.0,1.0,style style style style text text text text scroll scroll scroll scroll show show show horizont horizont horizont scrollbar scrollbar set set set set word word word word wrap wrap wrap wrap bar bar bar fals constructor check remov flag creat disabl made visibl visibl import import custom layout layout layout layout widget class snippet string margin margin width height border data data fill fill line dispos dispos
+SWT,407479,3.0,0.33333334,0.33333334,tracker window show taskbar suppos
+SWT,311228,599.0,0.001669449,0.001669449,read page page tab tab folder open editor focu press ctrl shift move arrow titl spoken
+SWT,315326,3.0,0.33333334,0.33333334,object type move move move build identifi label label composit composit dispos dispos result step test case work gtk gtk linux linux rc run attach click add add
+SWT,333759,3.0,0.33333334,0.33333334,gnome vf
+SWT,311231,6.0,0.16666667,0.16666667,warn print print run access access
+SWT,298942,1.0,1.0,1.0,xpcom error error refresh browser widget build identifi mozilla mozilla version linux en rv gecko fedora step open uri web web form page page applic send perform
+SWT,300995,2.0,0.5,0.5,cocoa messag run run file file viewer viewer build print autoreleas autoreleas pool pool pool pool object object object object class class nscf string stack stack ab ab
+SWT,393156,2.0,0.44296813,0.5,gtk gtk gtk gtk shell shell forc resiz critic critic error error run run snippet includ occur scrollabl scrollabl scrollabl vscroll polici width height line size alloc alloc vbox handl
+SWT,341958,3.0,0.33333334,0.33333334,arab version font font set style style style rang rang build word letter ascii charact text widget glyph
+SWT,305095,1.0,0.2903954,1.0,shell shell shell shell fullscreen fullscreen incorrect client client area area build identifi version put mode mode screen screen band bottom part cover background background action ad ad fill fill layout composit composit set color color standard scale snippet snippet packag widget widget widget class test string arg full black dispos read sleep run
+SWT,305096,6.0,0.16666667,0.16666667,fullscreen mode cover window window window window taskbar taskbar identifi version shell shell set snippet import import widget widget class test fs string arg open full screen screen dispos dispatch sleep step run bring bring
+SWT,290759,5.0,0.15263158,0.2,shell set enabl fals implement cocoa
+SWT,380875,2.0,0.5,0.5,singl line text field undo support build rc run attach sampl window window
+SWT,294860,2.0,0.5,0.5,left arrow arrow arrow arrow button button point point carbon carbon
+SWT,405453,5.0,0.12941177,0.2,acceler stop work menu item disabl
+SWT,317390,78.0,0.012820513,0.012820513,editor process input window screen keyboard run
+SWT,323535,11.0,0.11212122,0.09090909,checkbox tabl tabl column column header header wide run control tab click check visibl order pixel white left side note size
+SWT,391127,149.0,0.0067114094,0.0067114094,dialog slow editor open
+SWT,280537,1.0,1.0,1.0,viewer viewer owner owner owner draw draw draw label label label pointer tabl tabl tabl tabl column column column column dispos dispos dispos dispos attempt tree user modifi face snippet snippet snippet attach attach report widget widget widget widget class class data data data data string string string string thing debug break check check check check stop error error argument argument object object object object length return return thread thread lang handl event event event event send send send send measur item cdd wm wm wm wm notifi notifi notifi notifi control control control control composit composit canva canva decor decor shell shell intern intern intern intern win win messag releas remov select type run run defer read set set
+SWT,301018,2.0,0.5,0.5,browser browser mozilla mozilla instanc memori forev dispos dispos dispos build identifi creat collect add add remov debug
+SWT,286687,1.0,1.0,1.0,graphic gtk gtk clip set transform run attach sampl draw string gc origin parent shell
+SWT,313315,54.0,0.018518519,0.018518519,cocoa cocoa guid fulli visibl
+SWT,339941,1.0,1.0,1.0,program program execut execut launch launch launch app app arg default dir argument
+SWT,325607,693.0,0.0014430014,0.0014430014,build identifi lost count time file don start relat safari switch ff gecko
+SWT,358376,2.0,0.5,0.5,abil handl reopen event event user click click dock dock icon run run applic applic applic applic build identifi show show window window window option open menu bar support support found add front case visibl api notifi
+SWT,368616,526.0,0.0017772242,0.0019011407,const const return return remov remov build deprec version
+SWT,335857,8.0,0.125,0.125,keyboard move move move move sash sash sash sash control left left left left run snippet hit make user visual enter text shell shell shell shell set set size final border vertic bound bound add select handl event event height open focu dispos dispos read dispatch sleep
+SWT,368629,10.0,0.0669805,0.1,browser widget encod encod locat locat locat locat event event file
+SWT,372729,12.0,0.083333336,0.083333336,warn warn build build src src platform platform doc isv isv isv win win widget widget widget text text text tag link find segment event
+SWT,376826,1.0,0.13566011,1.0,text remov segment code code check error error error argument argument end end
+SWT,311292,1.0,1.0,1.0,return ia text attribut
