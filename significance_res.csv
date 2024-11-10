@@ -1,0 +1,32 @@
+﻿Model Pairs,Acc1,,,Acc5,,,Acc10,,,Acc20,,,MAP,,,MRR,,,All_Metrices,,
+,P-value,Cliff's Delta,Difference Magnitude,P-value,Cliff's Delta,Difference Magnitude,P-value,Cliff's Delta,Difference Magnitude,P-value,Cliff's Delta,Difference Magnitude,P-value,Cliff's Delta,Difference Magnitude,P-value,Cliff's Delta,Difference Magnitude,P-value,Cliff's Delta,Difference Magnitude
+Golden Keywords vs Preliminary Keywords,0.0313,0.2778,small,0.0313,0.2778,small,0.0313,0.3333,medium,0.0313,0.3889,medium,0.0313,0.2778,small,0.0313,0.25,small,1.67E-07,0.0926,negligible
+LightGBM vs RF,0.0313,0.2778,small,0.0313,0.2222,small,0.0313,0.1111,negligible,0.0313,0.1111,negligible,0.0313,0.1667,small,0.0313,0.2222,small,1.68E-07,0.1111,negligible
+LightgGBM vs NB,0.0313,0.4444,medium,0.0313,0.1667,small,0.21875,0.1111,negligible,0.21875,0.1667,small,0.0313,0.2778,small,0.0313,0.25,small,9.50E-07,0.0933,negligible
+LightGBM vs LG,0.0313,0.5,large,0.0313,0.3889,medium,0.0625,0.3333,medium,0.0313,0.3333,medium,0.0313,0.4444,medium,0.0313,0.0313,0.4444,1.68E-07,0.0313,small
+LightGBM vs DT,0.0313,0.7778,large,0.0313,0.5,large,0.0313,0.6111,large,0.0313,0.5556,large,0.0313,0.6112,large,0.0313,0.6112,large,1.68E-07,0.3973,medium
+LightGBM vs SVM,0.0313,0.2778,small,0.0313,0.2222,small,0.0313,0.1667,small,0.0313,0.1111,negligible,0.0313,0.1667,small,0.0313,0.2222,small,1.68E-07,0.1111,negligible
+KBL vs without bug features,0.0313,0.2222,small,0.0313,0.2778,small,0.0313,0.1111,negligible,0.0313,0.1111,negligible,0.0313,0.1667,small,0.0313,0.2222,small,1.68E-07,0.1111,negligible
+KBL vs without code features,0.0313,0.4444,medium,0.0313,0.1667,small,0.21875,0.1667,small,0.21875,0.1667,small,0.0313,0.2778,small,0.0313,0.25,small,1.68E-07,0.1404,negligible
+KBL vs without bug&code features,0.0313,0.2222,small,0.0313,0.1111,negligible,0.0313,0.1111,negligible,0.0313,0.1111,negligible,0.0313,0.1667,small,0.0313,0.2222,small,1.68E-07,0.1111,negligible
+RUS vs NCR,0.0313,0.3889,medium,0.0313,0.1667,small,0.0313,0.1667,small,0.0313,0.2222,small,0.0313,0.2778,small,0.0313,0.2778,small,1.68E-07,0.1265,negligible
+RUS vs Tomek Links,0.0313,0.6111,large,0.0313,0.3889,medium,0.0313,0.3889,medium,0.0313,0.3889,medium,0.0313,0.5,large,0.0313,0.5,large,1.68E-07,0.2376,small
+RUS vs ROS,0.0313,0.5556,large,0.0313,0.3333,medium,0.0313,0.3889,medium,0.0313,0.3889,medium,0.0313,0.3889,medium,0.0313,0.3889,medium,1.68E-07,0.199,small
+RUS 1:1 vs RUS 2:1,0.0313,0.6667,large,0.0313,0.6111,large,0.0313,0.6111,large,0.0313,0.5556,large,0.0313,0.6111,large,0.0313,0.6111,large,1.68E-07,0.3325,medium
+RUS 1:1 vs RUS 3:1,0.0313,0.7778,large,0.0313,0.6111,large,0.0313,0.5556,large,0.0313,0.5556,large,0.0313,0.7222,large,0.0313,0.7778,large,1.68E-07,0.4305,medium
+RUS 1:1 vs RUS 4:1,0.0313,0.7778,large,0.0313,0.5,large,0.0313,0.5556,large,0.0313,0.5556,large,0.0313,0.6667,large,0.0313,0.6667,large,1.69E-07,0.3533,medium
+RUS 1:1 vs No Balancing,0.0313,0.7778,large,0.0313,0.5,large,0.0313,0.5556,large,0.0313,0.5556,large,0.0313,0.6667,large,0.0313,0.6667,large,1.68E-07,0.3533,medium
+KBL vs Title,0.0313,0.5,large,0.0313,0.3333,medium,0.0313,0.3889,medium,0.0313,0.3333,medium,0.0313,0.4444,medium,0.0313,0.4444,medium,1.68E-07,0.2453,small
+KBL vs Description,0.0313,0.8889,large,0.0313,0.8889,large,0.0313,0.8889,large,0.0313,1,large,0.0313,0.7778,large,0.0313,0.8889,large,1.68E-07,0.6828,large
+KBL vs Title + Description,0.0313,0.3889,medium,0.0313,0.1667,small,0.0313,0.1667,small,0.0313,0.2222,small,0.0313,0.2778,small,0.0313,0.2778,small,1.68E-07,0.1404,negligible
+KBL vs TextRank,0.0313,0.5556,large,0.0313,0.3889,medium,0.0313,0.4444,medium,0.0313,0.3889,medium,0.0313,0.5,large,0.0313,0.5278,large,1.68E-07,0.2778,small
+KBL vs BLIZZARD,0.0313,0.4444,medium,0.0313,0.2778,small,0.0313,0.3333,medium,0.2249,0.3056,small,0.2188,0.2778,small,0.1563,0.2778,small,0.0005,0.2693,small
+KBL_10 vs TextRank,0.0313,0.2778,small,0.4375,0.1111,negligible,0.5001,0.0277,negligible,0.5625,-0.0556,negligible,0.15625,0.1111,negligible,0.0625,0.1389,negligible,0.0167,0.0416,negligible
+KBL vs TextRank_align,0.0313,0.4444,medium,0.0313,0.2778,small,0.0313,0.2778,small,0.0313,0.2778,small,0.0313,0.3889,medium,0.0313,0.3889,medium,1.68E-07,0.2067,small
+BugLocator_KBL vs BugLocator,0.0313,0.3333,medium,0.0313,0.5,large,0.0313,0.4444,medium,0.0313,0.3889,medium,0.0313,0.3889,medium,0.0313,0.4722,medium,1.68E-07,0.1273,negligible
+BRTracer_KBL vs BRTracer,0.0313,0.3333,medium,0.0313,0.5,large,0.0313,0.4167,medium,0.0313,0.3889,medium,0.0313,0.3333,medium,0.0313,0.4167,medium,1.68E-07,0.0987,negligible
+Locus_KBL vs Locus,0.0313,0.3333,medium,0.0313,0.5,large,0.0313,0.2222,small,0.0313,0.3333,medium,0.0313,0.3333,medium,0.0313,0.3611,medium,1.68E-07,0.0887,negligible
+BLIA_KBL vs BLIA,0.0313,0.3333,medium,0.0313,0.5,large,0.0313,0.4444,medium,0.0313,0.3889,medium,0.0313,0.3333,medium,0.0313,0.5,large,1.67E-07,0.1296,negligible
+Amalgam_KBL vs Amalgam,0.0313,0.3333,medium,0.0313,0.4444,medium,0.0313,0.4444,medium,0.0313,0.3889,medium,0.0313,0.3889,medium,0.0313,0.3889,medium,1.68E-07,0.2021,small
+BLUiR_KBL vs BLUiR,0.0313,0.3889,medium,0.0313,0.4444,medium,0.0313,0.3889,medium,0.0313,0.3889,medium,0.0313,0.3889,medium,0.0313,0.3889,medium,1.68E-07,0.233,small
+D&C_KBL vs D&C,0.0313,0.3333,medium,0.0313,0.2778,small,0.0313,0.3889,medium,0.0313,0.3333,medium,0.0313,0.3333,medium,0.0313,0.4167,medium,1.68E-07,0.1026,negligible
