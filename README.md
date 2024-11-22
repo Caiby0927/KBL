@@ -1,5 +1,9 @@
 # KBL: A Golden Keywords-based Query Reformulation Approach for Bug Localization
 
+## Supplementary Results Display
+* The detailed statistical significance results mentioned in the paper are shown in the significance_res.csv file.
+* Other attempts to improve the classifier are also shown in the other_attempts.csv file.
+
 ## Getting Started
 Clone the repository by using the following command.
 
